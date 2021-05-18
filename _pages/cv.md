@@ -19,9 +19,14 @@ nav: true
 
 | **University**         | 	
 |                        |
-| May 2020             | Diploma (MSc.) in Statistics, Johannes Kepler University Linz, Austria
+| May 2020             | Diploma (MSc.) in **Statistics**, Johannes Kepler University, Linz, Austria
 |                        |
-| July 2017              | Diploma (Bc.) in Mathematics with focus on economics and banking, Palacký University Olomouc, Czech republic
+| June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Olomouc,  Czech republic
+|                        |
+
+| **High School**         | 
+|                        |
+| June 2013             | Matura, Billingual grammar school, Liptovský Mikuláš, Slovakia
 |                        |
 
 
@@ -39,9 +44,51 @@ table td:first-of-type {
 
 ### Computer Skills ###
 
-| **Programming**           | R, Python
+|**R**            | advanced, active
 
-|                        |
+ |**Python**                      | intermediate, active
+
+|**C++**                   |beginner, learning
+
+|**GitHub**   |beginner, learning
+
+|**SQL**                      |beginner 
+
+|**LaTex**                       |advanced
+
+|**MS Office**       |intermediate
+
+|                           |
+
+{% comment %}
+
+###  Competencies in Field
+
+|                          |
+
+|                           |
+
+### Research Interests
+
+**|Natural Language Processing**     |
+
+**|Generative models**       |
+
+{% endcomment %}
+
+### Language SSkills
+
+|**Slovak**    |Mother language
+
+|**Czech**    |Expert
+
+|**English**   |Advanced
+
+|**German**   |Basics, learning
+
+|**Polish**   |Passive
+
+|                           |
 
 ### Publications ###
 
