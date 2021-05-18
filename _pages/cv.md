@@ -76,17 +76,17 @@ table td:first-of-type {
 
 {% endcomment %}
 
-### Language SSkills
+### Language Skills
 
-|**Slovak**    |Mother language
+|**Slovak**    |mother language
 
-|**Czech**    |Expert
+|**Czech**    |expert
 
-|**English**   |Advanced
+|**English**   |advanced
 
-|**German**   |Basics, learning
+|**German**   |basics, learning
 
-|**Polish**   |Passive
+|**Polish**   |passive
 
 |                           |
 
