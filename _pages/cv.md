@@ -37,9 +37,27 @@ table td:first-of-type {
     width: 11em;
 }
 </style>
-| Feb. 2019 - Present    |Researcher and Data Scientist, Software Competence Center Hagenberg, Austria
+| Feb. 2019 - Present    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Austria
 
-|                        |
+| 2017 - 2019    |**Data Science freelancer**
+
+| 2016 - 2019  |**Administrative assistant**, Transformátory, s.r.o., Slovakia
+
+|2012 - 2016    | **Administrative assistant**, Corvinus Travel, s.r.o., Slovakia
+
+#### Seasonal Jobs
+
+|2018 sum.  | allrounder at Hotel Tiefenbach, **Switzerland**
+
+|2017 sum.  | cleaning at Hjá Marlín, **Iceland**
+
+| 2016 win.  | help in service in Restaurant Margaretenhof, **Germany**
+
+|2016 sum.  | allrounder at Tölzer Hütte, **Austria**
+
+|2016 sum.  | fruit picking at farm, **Italy**
+
+|   |
 
 
 ### Computer Skills ###
@@ -92,5 +110,7 @@ table td:first-of-type {
 
 ### Publications ###
 
-see [here](../publications)
+0. R. Švihrová,<br>
+   *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)*,<br>Master Thesis, Johannes Kepler University (2020). 
 
+1. R. Švihrová, Ch. Lettner, <br>*[A semi-supervised approach for network intrusion detection](https://www.researchgate.net/publication/343331301_A_semi-supervised_approach_for_network_intrusion_detection)* <br>Presented at WISI workshop of ARES conference in 2020.
