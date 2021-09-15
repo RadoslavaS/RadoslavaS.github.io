@@ -32,14 +32,7 @@ nav: true
 
 ### Work Experience ###
 
-<style>
-table td:first-of-type {
-    width: 11em;
-}
-</style>
-
-
-| Sept. 2021 - Present   | **PhD Student**, Institute for Digital Technologies for 
+| Sept. 2021 - Present   |**PhD Student**, Institute for Digital Technologies for 
 Personalized Healthcare, Lugano, Switzerland
 
 | Feb. 2019 - Sept. 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Austria
