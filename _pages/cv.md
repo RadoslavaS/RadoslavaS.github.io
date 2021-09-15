@@ -37,7 +37,11 @@ table td:first-of-type {
     width: 11em;
 }
 </style>
-| Feb. 2019 - Present    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Austria
+
+| Sept. 2021 - Present   |**PhD Student**, Institute for Digital Technologies for 
+Personalized Healthcare, Lugano, Switzerland
+
+| Feb. 2019 - Sept. 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Austria
 
 | 2017 - 2019    |**Data Science freelancer**
 
