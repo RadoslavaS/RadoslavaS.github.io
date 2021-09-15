@@ -33,7 +33,7 @@ nav: true
 ### Work Experience ###
 
 | Sept. 2021 - Present      |**PhD Student**, Institute for Digital Technologies for 
-Personalized Healthcare, Lugano, Switzerland
+Personalized Healthcare, Switzerland
 
 | Feb. 2019 - Sept. 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Austria
 
