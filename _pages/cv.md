@@ -32,7 +32,7 @@ nav: true
 
 ### Work Experience ###
 
-| Sept. 2021 - Present      | **PhD Student**, Institute for Digital Technologies for 
+| 2021 - now     |**PhD Student**, Institute for Digital Technologies for 
 Personalized Healthcare, Switzerland
 
 | 2019 - 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Austria
