@@ -21,7 +21,7 @@ nav: true
 |                        |
 | Sept. 2021-now             | **PhD student**, University of Bern, Bern, Switzerland
 |                        |
-|June 2023                        | **Prob AI** Summer school on probabilistic modelling, Trondheim, Norway
+|June 2023                        | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
 |                        |
 | May 2020             | Diploma (MSc.) in **Statistics**, Johannes Kepler University, Linz, Austria
 |                        |
@@ -67,9 +67,9 @@ nav: true
 
  |**Python**                      | intermediate, active
 
-|**C++**                   |beginner, learning
+|**GitHub**   |intermediate, active
 
-|**GitHub**   |beginner, learning
+|**C++**                   |beginner
 
 |**SQL**                      |beginner 
 
@@ -77,21 +77,27 @@ nav: true
 
 |**MS Office**       |intermediate
 
-|                           |
+|**Notion**                          |intermediate, learning
 
 {% comment %}
 
 ###  Competencies in Field
 
-|                          |
+|**Statistical modeling**                          |
 
-|                           |
+|**Bayesian inference**                          |
+
+|**Causal inference**                          |learning
+
+|**Wearables**                          |
 
 ### Research Interests
 
-**|Natural Language Processing**     |
+|**Causal inference**       |
 
-**|Generative models**       |
+|**Probabilistic models**       |
+
+|**Generative models**       |
 
 {% endcomment %}
 
