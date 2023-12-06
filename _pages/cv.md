@@ -18,6 +18,14 @@ nav: true
 ### Education ###
 
 | **University**         | 	
+
+|                        |
+| Sept. 2021-now             | **PhD student**, University of Bern, Bern, Switzerland
+
+|                        |
+
+|June 2023                        | **Prob AI** Summer school on probabilistic modelling, Trondheim, Norway
+
 |                        |
 | May 2020             | Diploma (MSc.) in **Statistics**, Johannes Kepler University, Linz, Austria
 |                        |
@@ -99,11 +107,11 @@ nav: true
 
 |**English**   |advanced
 
-|**German**   |basics, learning
+|**German**   |basic communication, learning
 
 |**Polish**   |passive
 
-|                           |
+|**Italian**                           |learning
 
 ### Publications ###
 
