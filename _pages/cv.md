@@ -25,7 +25,7 @@ nav: true
 |                        |
 | May 2020             | Diploma (MSc.) in **Statistics**, Johannes Kepler University, Linz, Austria
 |                        |
-| June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Olomouc,  Czech republic
+| June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |
 
 | **High School**         | 
@@ -44,7 +44,7 @@ nav: true
 
 | 2016 - 2019  |**Administrative assistant**, Transformátory, s.r.o., Liptovský Mikuláš, Slovakia
 
-|2012 - 2016    | **Administrative assistant**, Corvinus Travel, s.r.o., Liptovský Mikuláš Slovakia
+|2012 - 2016    | **Administrative assistant**, Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia
 
 #### Seasonal Jobs
 
