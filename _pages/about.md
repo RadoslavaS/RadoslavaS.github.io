@@ -19,9 +19,7 @@ social: true  # includes social icons at the bottom of the page
 |    |
 
 Hi, this is Radka! Statistician by training, machine learning enthusiast. 
-Currently a PhD student at the [Cognitive Computational Neuroscience group](https://neuro.inf.unibe.ch/) located at the University of Bern and employed at the [Biomedical Signal Processing group](https://bsp-meditech.ch/) located at the Institute for Digital Technologies for Personalized Healthcare 
- - SUPSI in Lugano, Switzerland. Previously I was 
-employed at the [Software Competence Center Hagenberg](https://www.scch.at/) as a 
+Currently a PhD student at the [Cognitive Computational Neuroscience group](https://neuro.inf.unibe.ch/) located at the University of Bern and employed at the [Biomedical Signal Processing group](https://bsp-meditech.ch/) located at the Institute for Digital Technologies for Personalized Healthcare (at SUPSI) in Lugano, Switzerland. Previously I was employed at the [Software Competence Center Hagenberg](https://www.scch.at/) as a 
 Researcher and Data Scientist. Originally I come from Liptovský Mikuláš, Slovakia.
 
 My research focus is on applications of **statistical and causal inference** for lifestyle and sleep-wake circadian quantification from wearables fused with contextual information, aiming to improve and personalise **adaptive reinforcement learning - based nudging** in e-health mobile apps and evaluation of their effectivness. I am also interested in medical devices regulations and regulatory statistics.
