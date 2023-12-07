@@ -101,9 +101,13 @@ nav: true
 
 |**Probabilistic models**       |
 
+|**Reinforcement learning**       |
+
 |**Generative models**       |
 
 |**Wearables**       |
+
+|**Complex interventions**       |
 
 
 ### Memberships
