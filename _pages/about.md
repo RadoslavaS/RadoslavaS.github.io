@@ -24,6 +24,8 @@ Researcher and Data Scientist. Originally I come from Liptovský Mikuláš, Slov
 
 My research focus is on applications of **statistical and causal inference** for lifestyle and sleep-wake circadian quantification from wearables fused with contextual information, aiming to improve and personalise **adaptive reinforcement learning - based nudging** in e-health mobile apps and evaluation of their effectivness. I am also interested in medical devices regulations and regulatory statistics.
 
+In my free time I like to travel and discover new countries and cultures, do mountain sports such as hiking, skiing and skitouring or just relax with a good book. Recently I started to learn how to play piano.
+
 In the section [blog](../blog) I am documenting my learning notes and anything I find interesting. 
 In [curriculum vitae](../cv) you can find something more about me.
 Everything on this page consists only of my own thoughts and is not in any 
