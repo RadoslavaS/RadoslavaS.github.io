@@ -19,7 +19,7 @@ nav: true
 
 | **University**         | 
 |                        |
-| Sept. 2021-now             | **PhD student**, University of Bern, Bern, Switzerland
+| Sept. 2021-now             | **PhD student**, University of Bern, Switzerland - Cognitive Computational Neuroscience group
 |                        |
 |June 2023                        | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
 |                        |
@@ -36,15 +36,15 @@ nav: true
 
 ### Work Experience ###
 
-| 2021 - now     |**PhD Student**, Institute for Digital Technologies for Personalized Healthcare, Switzerland
+| 2021 - now     |**PhD Student**, Institute for Digital Technologies for Personalized Healthcare, Lugano, Switzerland - Biomedical Signal Processing group
 
-| 2019 - 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Austria
+| 2019 - 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Hagenberg, Austria
 
 | 2017 - 2019    |**Data Science freelancer**
 
-| 2016 - 2019  |**Administrative assistant**, Transformátory, s.r.o., Slovakia
+| 2016 - 2019  |**Administrative assistant**, Transformátory, s.r.o., Liptovský Mikuláš, Slovakia
 
-|2012 - 2016    | **Administrative assistant**, Corvinus Travel, s.r.o., Slovakia
+|2012 - 2016    | **Administrative assistant**, Corvinus Travel, s.r.o., Liptovský Mikuláš Slovakia
 
 #### Seasonal Jobs
 
@@ -91,7 +91,11 @@ nav: true
 
 |**Wearables**                          |
 
+{% endcomment %}
+
 ### Research Interests
+
+|**Statistical modeling**       |
 
 |**Causal inference**       |
 
@@ -99,7 +103,14 @@ nav: true
 
 |**Generative models**       |
 
-{% endcomment %}
+|**Wearables**       |
+
+
+### Memberships
+
+|since 2023       |**Statisticians in the Pharmaceutical Industry**
+
+|since 2023       |**Young Section of the European Sleep Foundation**
 
 ### Language Skills
 
@@ -107,17 +118,17 @@ nav: true
 
 |**Czech**    |expert
 
-|**English**   |advanced
+|**English**   |working profficiency
 
 |**German**   |basic communication, learning
 
 |**Polish**   |passive
 
-|**Italian**                           |learning
+|**Italian**    |passive, learning
 
 ### Publications ###
 
-0. R. Švihrová,<br>
+R. Švihrová,<br>
    *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)*,<br>Master Thesis, Johannes Kepler University (2020). 
 
-1. R. Švihrová, Ch. Lettner, <br>*[A semi-supervised approach for network intrusion detection](https://www.researchgate.net/publication/343331301_A_semi-supervised_approach_for_network_intrusion_detection)* <br>Presented at WISI workshop of ARES conference in 2020.
+R. Švihrová, Ch. Lettner, <br>*[A semi-supervised approach for network intrusion detection](https://www.researchgate.net/publication/343331301_A_semi-supervised_approach_for_network_intrusion_detection)* <br>Presented at WISI workshop of ARES conference in 2020.
