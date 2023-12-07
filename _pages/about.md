@@ -18,15 +18,17 @@ social: true  # includes social icons at the bottom of the page
 
 |    |
 
-Hi, this is Radka!  I am a statistician by training and machine learning enthusiast. 
-Currently I am a PhD student at the [Institute for Digital Technologies for 
-Personalized Healthcare](https://www.supsi.ch/meditech_en/istituto/missione.html) 
+Hi, this is Radka!  Statistician by training and machine learning enthusiast. 
+Currently a PhD student at the [University of Bern](https://neuro.inf.unibe.ch/) and employed at [Institute for Digital Technologies for 
+Personalized Healthcare](https://bsp-meditech.ch/) 
 located at SUPSI in Lugano, Switzerland. Previously I was 
 employed at [Software Competence Center Hagenberg](https://www.scch.at/) as a 
 Researcher and Data Scientist. Originally I come from Liptovský Mikuláš, Slovakia.
 
-In the section [blog](../blog) I am documenting my learning notes and anything 
-I find interesting. In [curriculum vitae](../cv) you can find something more about me.
+My research focus is on applications of statistical and causal inference for lifestyle quantification from wearables fused with contextual information, aiming to improve and personalise adaptive RL-based nudging in e-health mobile apps and evaluation of their effectivness. I am also interested in medical devices regulations and regulatory statistics.
+
+In the section [blog](../blog) I am documenting my learning notes and anything I find interesting. 
+In [curriculum vitae](../cv) you can find something more about me.
 Everything on this page consists only of my own thoughts and is not in any 
 way connected to my current affiliation. Feel free to get in touch by clicking 
 at the icons below! 
