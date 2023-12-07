@@ -23,7 +23,7 @@ nav: true
 |                        |
 |June 2023                        | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
 |                        |
-| May 2020             | Diploma (MSc.) in **Statistics**, Johannes Kepler University, Linz, Austria
+| May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Johannes Kepler University, Linz, Austria
 |                        |
 | June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |
