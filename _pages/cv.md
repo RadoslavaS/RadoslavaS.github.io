@@ -112,15 +112,17 @@ nav: true
 
 ### Memberships
 
-|since 2023       |**Statisticians in the Pharmaceutical Industry**
+|since 2024       |**Statisticians in the Pharmaceutical Industry**
 
-|since 2023       |**Young Section of the European Sleep Foundation**
+|since 2024       |**Young Section of the European Sleep Foundation**
 
 ### Talks
 
-|March 2024       |**Personalising adaptive interventions with Machine Learning** at Applied Machine Learning Days (AMLD) at EPFL, Lausanne
+|March 2024       |**Personalising adaptive interventions with Machine Learning** 
+                     at Applied Machine Learning Days (AMLD) at EPFL, Lausanne
 
-|September 2023       |**Towards better health with wearables (and statistics)** at 3rd Slovak and Czech Annual Symposium at ETH, Zürich
+|September 2023       |**Towards better health with wearables (and statistics)**
+                        at 3rd Slovak and Czech Annual Symposium at ETH, Zürich
 
 ### Language Skills
 
