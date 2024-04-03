@@ -69,8 +69,6 @@ nav: true
 
 |**GitHub**   |intermediate, active
 
-|**C++**                   |beginner
-
 |**SQL**                      |beginner 
 
 |**LaTex**                       |advanced
@@ -120,8 +118,8 @@ nav: true
 
 ### Talks
 
-|March 2024       |     **Personalising adaptive interventions with Machine Learning** 
-|   |      at Applied Machine Learning Days (AMLD) at EPFL, Lausanne
+|March 2024       |**Personalising adaptive interventions with Machine Learning** 
+|   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne
 
 
 |September 2023       |**Towards better health with wearables (and statistics)** 
