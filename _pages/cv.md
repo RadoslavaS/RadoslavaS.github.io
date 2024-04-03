@@ -85,7 +85,7 @@ nav: true
 
 |**Statistical modeling**                          |
 
-|**Bayesian inference**                          |
+|**Bayesian inference**                          |learning
 
 |**Causal inference**                          |learning
 
@@ -116,6 +116,12 @@ nav: true
 
 |since 2023       |**Young Section of the European Sleep Foundation**
 
+### Talks
+
+|March 2024       |**Personalising adaptive interventions with Machine Learning** at Applied Machine Learning Days (AMLD) at EPFL, Lausanne
+
+|September 2023       |**Towards better health with wearables (and statistics)** at 3rd Slovak and Czech Annual Symposium at ETH, Zürich
+
 ### Language Skills
 
 |**Slovak**    |mother language
@@ -132,7 +138,7 @@ nav: true
 
 ### Publications ###
 
-R. Švihrová,<br>
+R. Švihrová <br>
    *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)*,<br>Master Thesis, Johannes Kepler University (2020). 
 
 R. Švihrová, Ch. Lettner, <br>*[A semi-supervised approach for network intrusion detection](https://www.researchgate.net/publication/343331301_A_semi-supervised_approach_for_network_intrusion_detection)* <br>Presented at WISI workshop of ARES conference in 2020.
