@@ -28,7 +28,7 @@ nav: true
 | June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |
 
-| **Short courses**  | 
+| **Courses**  | 
 |                        | 
 |April 2024              |**European Causal Inference Meeting** Copenhagen, Denmark
 |February 2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
@@ -43,7 +43,7 @@ nav: true
 
 ### Work Experience ###
 
-| 2021 - now     |**PhD Student**, Institute for Digital Technologies for Personalized Healthcare - SUPSI, Lugano, Switzerland - Biomedical Signal Processing group
+| 2021 - now     |**PhD Student**, University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)
 
 | 2019 - 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Hagenberg, Austria
 
