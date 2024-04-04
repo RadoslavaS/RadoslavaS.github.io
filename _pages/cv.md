@@ -21,12 +21,19 @@ nav: true
 |                        |
 | Sept. 2021-now             | **PhD student**, University of Bern, Switzerland - Cognitive Computational Neuroscience group
 |                        |
-|June 2023                        | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
+
 |                        |
 | May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Johannes Kepler University, Linz, Austria
 |                        |
 | June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |
+
+| **Workshops and Summer Schools**         | 
+|                        |
+|April 2024              |**European Causal Inference Meeting** conference and courses, Copenhagen, Denmark
+|February 2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
+|June 2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
+|                        | 
 
 | **High School**         | 
 |                        |
@@ -36,7 +43,7 @@ nav: true
 
 ### Work Experience ###
 
-| 2021 - now     |**PhD Student**, Institute for Digital Technologies for Personalized Healthcare, Lugano, Switzerland - Biomedical Signal Processing group
+| 2021 - now     |**PhD Student**, Institute for Digital Technologies for Personalized Healthcare - SUPSI, Lugano, Switzerland - Biomedical Signal Processing group
 
 | 2019 - 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Hagenberg, Austria
 
@@ -45,6 +52,15 @@ nav: true
 | 2016 - 2019  |**Administrative assistant**, Transformátory, s.r.o., Liptovský Mikuláš, Slovakia
 
 |2012 - 2016    | **Administrative assistant**, Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia
+
+|     |
+{% comment %}
+#### Teaching Assistant
+
+|from 2022     | **Applied Statistics** master course at SUPSI
+|from 2022     | **Artificial Intelligence, Deep Learning & Healthcare** at Swiss School of Public Health
+|         |
+{% endcomment %}
 
 #### Seasonal Jobs
 
