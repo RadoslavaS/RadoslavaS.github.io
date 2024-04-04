@@ -28,9 +28,8 @@ nav: true
 | June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |
 
-| **Workshops and Summer Schools**         | 
-|                        |
-|April 2024              |**European Causal Inference Meeting** conference and courses, Copenhagen, Denmark
+| **Attended Workshops**  | 
+|April 2024              |**European Causal Inference Meeting** Copenhagen, Denmark
 |February 2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
 |June 2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
 |                        | 
