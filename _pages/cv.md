@@ -28,7 +28,7 @@ nav: true
 | June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |
 
-| **Courses**  | 
+| **Attended courses**  | 
 |                        | 
 |April 2024              |**European Causal Inference Meeting** Copenhagen, Denmark
 |February 2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
@@ -54,13 +54,12 @@ nav: true
 |2012 - 2016    | **Administrative assistant**, Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia
 
 |     |
-{% comment %}
+
 #### Teaching Assistant
 
-|from 2022     | **Applied Statistics** master course at SUPSI
-|from 2022     | **Artificial Intelligence, Deep Learning & Healthcare** at Swiss School of Public Health
+|2022  - now   | **Applied Statistics** master course at SUPSI
+|2022  - now   | **Artificial Intelligence, Deep Learning & Healthcare** at Swiss School of Public Health
 |         |
-{% endcomment %}
 
 #### Seasonal Jobs
 
@@ -93,6 +92,8 @@ nav: true
 
 |**Notion**                          |intermediate, learning
 
+|   |
+
 {% comment %}
 
 ###  Competencies in Field
@@ -123,6 +124,8 @@ nav: true
 
 |**Complex interventions**       |
 
+|   |
+
 
 ### Memberships
 
@@ -132,11 +135,17 @@ nav: true
 
 |since 2024       |**Austro-Swiss Section of International Biometric Society**
 
+|   |
+
+
 ### Grants
 
 |2024       |**UniBE Short Travel Grants for (Post)Docs**
 
 |2023       |**Labfront: Wearables and well-being**
+
+|   |
+
 
 ### Invited talks
 
@@ -145,6 +154,8 @@ nav: true
 
 |March 2024       |**Personalising adaptive interventions with Machine Learning** 
 |   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
+
+|   |
 
 
 ### Oral presentations
@@ -155,6 +166,8 @@ nav: true
 
 |September 2023       |**Towards better health with wearables (and statistics)** 
 |   | at 3rd Slovak and Czech Annual Symposium at ETH, Zürich, Switzerland
+
+|   |
 
 
 ### Language Skills
@@ -169,6 +182,8 @@ nav: true
 
 |**Italian**    |passive, basics, learning
 
+|   |
+
 ### Publications ###
 
 R. Švihrová <br>
@@ -179,10 +194,10 @@ R. Švihrová, Ch. Lettner, <br>*[A semi-supervised approach for network intrusi
 ### Abstracts ###
 
 R. Švihrová, A. Dei Rossi, D. Marzoratti, A. Tzovara, F.D. Faraci <br>
-   *[Wearables and sleep: effect of circadian rhythm disruption on sleep quality, recovery and well-being]*, <br>Presented at the 27th Meeting of the European Sleep Research Society, 2024, Seville, Spain
+   *[Wearables and sleep: effect of circadian rhythm disruption on sleep quality, recovery and well-being]()*, <br>Presented at the 27th Meeting of the European Sleep Research Society, 2024, Seville, Spain
 
 R. Švihrová, A. Dei Rossi, D. Marzoratti, M. Bechný, M. Grossenbacher, F.D. Faraci <br>
-   *[Towards personalized burnout prevention system: Causal inference approach for understanding the effect of circadian rhythm disruption on well-being]*, <br>Presented at the World Sleep Congress, 2023, Rio de Janeiro, Brazil
+   *[Towards personalized burnout prevention system: Causal inference approach for understanding the effect of circadian rhythm disruption on well-being]()*, <br>Presented at the World Sleep Congress, 2023, Rio de Janeiro, Brazil
 
 M.Bechný, R. Švihrová, L.G. Arango, A. Baldassari, Y. Ilchenko, M. Grossenbacher, F.D. Faraci <br>
-   *[Towards personalized burnout prevention system: a probabilistic approach for analysis of data from wearable devices with subjective feedback. A preliminary study]*, <br>Presented at the 26th Meeting of the European Sleep Research Society, 2022, Athens, Greece
+   *[Towards personalized burnout prevention system: a probabilistic approach for analysis of data from wearable devices with subjective feedback. A preliminary study]()*, <br>Presented at the 26th Meeting of the European Sleep Research Society, 2022, Athens, Greece
