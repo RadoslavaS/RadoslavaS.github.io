@@ -132,14 +132,29 @@ nav: true
 
 |since 2024       |**Austro-Swiss Section of International Biometric Society**
 
-### Talks
+### Grants
+
+|2024       |**UniBE Short Travel Grants for (Post)Docs**
+
+|2023       |**Labfront: Wearables and well-being**
+
+### Invited talks
+
+|September 2024       |**AI and Statistics in Medicine** 
+|   |with Michal Bechný, at AI and Medical Devices Conference, Prague, Czech republic
 
 |March 2024       |**Personalising adaptive interventions with Machine Learning** 
-|   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne
+|   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
+
+
+### Oral presentations
+
+|September 2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
+|   |at Giornata della Ricerca e dell'Innovazione in Medicina Umana della Svizzera Italiana, Lugano, Switzerland
 
 
 |September 2023       |**Towards better health with wearables (and statistics)** 
-|   | at 3rd Slovak and Czech Annual Symposium at ETH, Zürich
+|   | at 3rd Slovak and Czech Annual Symposium at ETH, Zürich, Switzerland
 
 
 ### Language Skills
@@ -152,9 +167,7 @@ nav: true
 
 |**German**   |basic communication, learning
 
-|**Polish**   |passive
-
-|**Italian**    |passive, learning
+|**Italian**    |passive, basics, learning
 
 ### Publications ###
 
@@ -162,3 +175,14 @@ R. Švihrová <br>
    *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)*,<br>Master Thesis, Johannes Kepler University (2020). 
 
 R. Švihrová, Ch. Lettner, <br>*[A semi-supervised approach for network intrusion detection](https://www.researchgate.net/publication/343331301_A_semi-supervised_approach_for_network_intrusion_detection)* <br>Presented at WISI workshop of ARES conference in 2020.
+
+### Abstracts ###
+
+R. Švihrová, A. Dei Rossi, D. Marzoratti, A. Tzovara, F.D. Faraci <br>
+   *[Wearables and sleep: effect of circadian rhythm disruption on sleep quality, recovery and well-being]*, <br>Presented at the 27th Meeting of the European Sleep Research Society, 2024, Seville, Spain
+
+R. Švihrová, A. Dei Rossi, D. Marzoratti, M. Bechný, M. Grossenbacher, F.D. Faraci <br>
+   *[Towards personalized burnout prevention system: Causal inference approach for understanding the effect of circadian rhythm disruption on well-being]*, <br>Presented at the World Sleep Congress, 2023, Rio de Janeiro, Brazil
+
+M.Bechný, R. Švihrová, L.G. Arango, A. Baldassari, Y. Ilchenko, M. Grossenbacher, F.D. Faraci <br>
+   *[Towards personalized burnout prevention system: a probabilistic approach for analysis of data from wearable devices with subjective feedback. A preliminary study]*, <br>Presented at the 26th Meeting of the European Sleep Research Society, 2022, Athens, Greece
