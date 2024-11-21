@@ -148,7 +148,7 @@ nav: true
 |September 2024       |**AI and Statistics in Medicine** - invited talk
 |   |with Michal Bechný, at AI and Medical Devices Conference, Prague, Czech republic
 
-|March 2024       |**Personalising adaptive interventions with Machine Learning** - invited talk
+|March 2024             |**Personalising adaptive interventions with Machine Learning** - invited talk
 |   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
 
 |September 2023       |**Towards better health with wearables (and statistics)** 
