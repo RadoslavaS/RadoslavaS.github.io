@@ -108,7 +108,6 @@ nav: true
 
 |**Wearables**                          |
 
-{% endcomment %}
 
 ### Research Interests
 
@@ -129,15 +128,7 @@ nav: true
 |   |
 
 
-### Memberships
-
-|since 2024       |**Statisticians in the Pharmaceutical Industry**
-
-|since 2024       |**Young Section of the European Sleep Foundation**
-
-|since 2024       |**Austro-Swiss Section of International Biometric Society**
-
-|   |
+{% endcomment %}
 
 
 ### Grants
@@ -179,6 +170,18 @@ nav: true
 |**Italian**    |passive, basics, learning
 
 |   |
+
+### Memberships
+
+|since 2024       |**Statisticians in the Pharmaceutical Industry**
+
+|since 2024       |**Young Section of the European Sleep Foundation**
+
+|since 2024       |**Austro-Swiss Section of International Biometric Society**
+
+|   |
+
+
 
 ### Publications ###
 
