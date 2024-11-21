@@ -147,22 +147,16 @@ nav: true
 |   |
 
 
-### Invited talks
-
-|September 2024       |**AI and Statistics in Medicine** 
-|   |with Michal Bechný, at AI and Medical Devices Conference, Prague, Czech republic
-
-|March 2024       |**Personalising adaptive interventions with Machine Learning** 
-|   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
-
-|   |
-
-
 ### Oral presentations
 
 |September 2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
 |   |at Giornata della Ricerca e dell'Innovazione in Medicina Umana della Svizzera Italiana, Lugano, Switzerland
 
+|September 2024       |**AI and Statistics in Medicine** - invited talk
+|   |with Michal Bechný, at AI and Medical Devices Conference, Prague, Czech republic
+
+|March 2024       |**Personalising adaptive interventions with Machine Learning** - invited talk
+|   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
 
 |September 2023       |**Towards better health with wearables (and statistics)** 
 |   | at 3rd Slovak and Czech Annual Symposium at ETH, Zürich, Switzerland
