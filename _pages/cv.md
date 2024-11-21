@@ -82,7 +82,7 @@ nav: true
 
  |**Python**                      | intermediate, active
 
-|**GitHub**   |intermediate, active
+|**Git**   |intermediate, active
 
 |**SQL**                      |beginner 
 
