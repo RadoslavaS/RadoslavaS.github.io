@@ -57,8 +57,10 @@ nav: true
 
 #### Teaching Assistant
 
-|2022  - now   | **Applied Statistics** master course at SUPSI
-|2022  - now   | **Artificial Intelligence, Deep Learning & Healthcare** at Swiss School of Public Health
+|2022  - now   | **Applied Statistics** 
+|     | semestral master course at SUPSI
+|2022  - now   | **Artificial Intelligence, Deep Learning & Healthcare** 
+|     |1 week summer school at Swiss School of Public Health
 |         |
 
 #### Seasonal Jobs
