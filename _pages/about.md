@@ -19,14 +19,16 @@ social: true  # includes social icons at the bottom of the page
 |    |
 
 Hi, this is Radka! Statistician by training, machine learning enthusiast. 
-Currently a PhD student at the [Cognitive Computational Neuroscience group](https://neuro.inf.unibe.ch/) located at the University of Bern and employed at the [Biomedical Signal Processing group](https://bsp-meditech.ch/) located at the Institute for Digital Technologies for Personalized Healthcare (at SUPSI) in Lugano, Switzerland. Previously I was employed at the [Software Competence Center Hagenberg](https://www.scch.at/) in Austria as a 
-Researcher and Data Scientist. Originally I come from Liptovský Mikuláš, Slovakia.
+Currently a PhD student at the [Cognitive Computational Neuroscience group](https://neuro.inf.unibe.ch/) located at the University of Bern and employed at the [Biomedical Signal Processing group](https://bsp-meditech.ch/) located at the Institute for Digital Technologies for Personalized Healthcare (at SUPSI) in Lugano, Switzerland. Previously I was a Researcher and Data Scientist at the [Software Competence Center Hagenberg](https://www.scch.at/) in Austria, after graduating from master of **Statistics and Data Science** at [Johannes Kepler University](https://www.jku.at/institut-fuer-angewandte-statistik/) in Linz, Austria. Originally I come from Liptovský Mikuláš, Slovakia.
 
-My research focus is on applications of **statistical and causal inference** for lifestyle and sleep-wake circadian habits quantification from wearables fused with contextual information, aiming to improve and personalise **adaptive reinforcement learning - based nudging** in e-health mobile apps and evaluation of their effectivness. I am also interested in medical devices regulations and regulatory statistics.
+My current research focus is on applications of **statistical and causal methods** for lifestyle quantification and behavioral change systems, utilising wearable data combined with contextual information. During my PhD journey I am developing a system for personalised nudging in e-health mobile apps by utilising **bandits from reinforcement learning**. For the evaluation of system effectivness and better lifestyle quantification I am exploiting principles from **causal inference** and **causal discovery**. I am also interested in **adaptive clinical trials** and medical devices regulations and regulatory statistics.
 
-In my free time I like to travel and discover new countries and cultures, do mountain sports such as hiking, skiing and skitouring or just relax with a good book. Recently I started to learn how to play piano.
+In my free time I like to travel and discover new countries and cultures, do mountain sports such as hiking, skiing and skitouring or just relax during a walk in the city. 
 
+{% comment %}
 In the section [blog](../blog) I am documenting my learning notes and anything I find interesting. 
+{% endcomment %}
+
 In [curriculum vitae](../cv) you can find something more about me.
 Everything on this page consists only of my own thoughts and is not in any 
 way connected to my current affiliation. Feel free to get in touch by clicking 
