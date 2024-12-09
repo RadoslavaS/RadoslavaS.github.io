@@ -154,6 +154,9 @@ nav: true
 |September 2023       |**Towards better health with wearables (and statistics)** 
 |   | at 3rd Slovak and Czech Annual Symposium at ETH, Zürich, Switzerland
 
+|August 2020       |**A Semi-Supervised Approach for Network Intrusion Detection** 
+|   | at 2nd Workshop on Industrial Security and IoT (WISI), The 15th International Conference on Availability, Reliability and Security (ARES), Dublin, Ireland, online due to pandemic
+
 |   |
 
 
