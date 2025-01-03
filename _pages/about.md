@@ -10,7 +10,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-![Image of Radka](assets/img/profile_pic.jpg)
+![Image of Radka](assets/img/profile_pic2.jpg)
 
 
 
