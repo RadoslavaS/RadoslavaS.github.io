@@ -21,7 +21,6 @@ nav: true
 |                        |
 | Sept. 2021-now             | **PhD student**, University of Bern, Switzerland - Cognitive Computational Neuroscience group
 |                        |
-
 |                        |
 | May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Johannes Kepler University, Linz, Austria
 |                        |
@@ -43,25 +42,36 @@ nav: true
 
 ### Work Experience ###
 
-| 2021 - now     |**PhD Student**, University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)
+| 2021 - now     |**PhD Student**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
+| | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling. Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires. Statistical consulting for other projects. Communication and definition of system requirements with healthcare professionals and external industry partners. Collaborating on writing of ethical proposals and scientific grant proposals.
 
-| 2019 - 2021    |**Researcher and Data Scientist**, Software Competence Center Hagenberg, Hagenberg, Austria
+| 2019 - 2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
+| | Data analysis and statistical inference for projects involving collaborators from academia and industry, communication with customers, writting of reports for customers and scientific outcomes. Design and implementation of solutions for anomaly and fraud detection in the social contribution system (project together with social insurance in Austria), and classification and transfer learning for neural networks for anomaly detection in computer network security (IoT4CPS project).
 
 | 2017 - 2019    |**Data Science freelancer**
+| | Data analysis and statistical inference for semestral projects, academic theses and scientific reports, statistical consulting
 
-| 2016 - 2019  |**Administrative assistant**, Transformátory, s.r.o., Liptovský Mikuláš, Slovakia
+| 2016 - 2019  |**Administrative assistant**, *TPC Transformátory, s.r.o., Liptovský Mikuláš, Slovakia*
+| | Communication with customer in English, invoicing
 
-|2012 - 2016    | **Administrative assistant**, Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia
-
-|     |
+|2012 - 2016    | **Administrative assistant**, *Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia*
+|     | English - Slovak translations, assistance in creating website and marketing materials
+| |
 
 #### Teaching Assistant
 
-|2022  - now   | **Applied Statistics** 
+|2022  - now   | **Applied Statistics and Data Analysis** 
 |     | semestral master course at SUPSI
 |2022  - now   | **Artificial Intelligence, Deep Learning & Healthcare** 
 |     |1 week summer school at Swiss School of Public Health
 |         |
+
+##### Theses 
+|2024 | **Wearable Data: Towards Data Extraction and Cross Device Feature Mapping Using NLP-Inspired Methods**, Delara Lomen, Bachelor Thesis
+| |
+
+|2023 | **Framework for personalized goal recommendation in habit creation. Wearable data analysis and feature extraction** Jakub Tłuczek, Master Thesis
+| |
 
 #### Seasonal Jobs
 

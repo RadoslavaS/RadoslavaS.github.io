@@ -23,7 +23,7 @@ Currently a PhD student at the [Cognitive Computational Neuroscience group](http
 
 My current research focus is on applications of **statistical and causal methods** for lifestyle quantification and behavioral change systems, utilising wearable data combined with contextual information. During my PhD journey I am developing a system for personalised nudging in e-health mobile apps by utilising **bandits from reinforcement learning**. For the evaluation of system effectivness and better lifestyle quantification I am exploiting principles from **causal inference** and **causal discovery**. I am also interested in adaptive clinical trials and medical devices regulations and regulatory statistics.
 
-In my free time I like to travel and discover new countries and cultures, do mountain sports such as hiking, skiing and skitouring or just relax during a walk in the city. 
+In my free time I like to travel and discover new countries and cultures, do mountain sports such as hiking, skiing and skitouring or just relax during a walk in the city or with a good book. 
 
 {% comment %}
 In the section [blog](../blog) I am documenting my learning notes and anything I find interesting. 
@@ -33,4 +33,8 @@ In [curriculum vitae](../cv) you can find something more about me.
 Everything on this page consists only of my own thoughts and is not in any 
 way connected to my current affiliation. Feel free to get in touch by clicking 
 at the icons below! 
+
+If you are interested in doing a **master thesis** in the field of *applied statistics* or *applied machine learning* for deriving personalised insights from longitudinal data collected by **wearables** and **mHealth** solutions, feel free to get in touch!
+
+If you own a **Garmin** device or live in Lugano and would be willing to borrow one from us, and would like to participate in a *data collection* for my internal research study **Wearables and well-being**, please contact me. More information [on this link](https://docs.google.com/document/d/1YDw9lGH0aDt4WNMcH8VgFXD6KM10ytLV/edit?usp=sharing&ouid=100026897104344956854&rtpof=true&sd=true). 
 
