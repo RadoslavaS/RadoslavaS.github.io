@@ -67,11 +67,12 @@ nav: true
 |         |
 
 ##### Theses 
-|2024 | **Wearable Data: Towards Data Extraction and Cross Device Feature Mapping Using NLP-Inspired Methods**, Delara Lomen, Bachelor Thesis
-| |
 
-|2023 | **Framework for personalized goal recommendation in habit creation. Wearable data analysis and feature extraction** Jakub Tłuczek, Master Thesis
-| |
+|2024 | **Wearable Data: Towards Data Extraction and Cross Device Feature Mapping Using NLP-Inspired Methods**, Delara Lomen, Bachelor Thesis at the Università della Svizzera italiana
+|            | 
+
+|2023 | **Framework for personalized goal recommendation in habit creation. Wearable data analysis and feature extraction** Jakub Tłuczek, Master Thesis at the University of Neuchâtel
+|            |
 
 #### Seasonal Jobs
 
