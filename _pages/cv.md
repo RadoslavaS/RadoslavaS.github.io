@@ -19,30 +19,30 @@ nav: true
 
 | **University**         | 
 |                        |
-|September.2021-now             | **PhD student**, University of Bern, Switzerland - Cognitive Computational Neuroscience group
+| Sept. 2021-now             | **PhD student**, University of Bern, Switzerland - Cognitive Computational Neuroscience group
 |                        |
 |                        |
-|May.2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Johannes Kepler University, Linz, Austria
+| May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Johannes Kepler University, Linz, Austria
 |                        |
-|June.2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
+| June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |
 
 | **Attended courses**  | 
 |                        | 
-|April.2024              |**European Causal Inference Meeting** Copenhagen, Denmark
-|February.2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
-|June.2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
+|April 2024              |**European Causal Inference Meeting** Copenhagen, Denmark
+|February 2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
+|June 2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
 |                        | 
 
 | **High School**         | 
 |                        |
-|June.2013             | Matura, Billingual grammar school, Liptovský Mikuláš, Slovakia
+| June 2013             | Matura, Billingual grammar school, Liptovský Mikuláš, Slovakia
 |                        |
 
 
 ### Work Experience ###
 
-| 2021-now     |**PhD Student**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
+| 2021 - now     |**PhD Student**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
 | | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling. 
 | | Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires. 
 | | Statistical consulting for other projects. 
@@ -50,29 +50,29 @@ nav: true
 | | Collaborating on writing of ethical proposals and scientific grant proposals.
 | | 
 
-| 2019-2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
+| 2019 - 2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
 | | Data analysis and statistical inference for projects involving collaborators from academia and industry, writting of reports for customers and scientific outcomes, communication with customers. 
 | | Design and implementation of machine learning solutions for anomaly and fraud detection in the social contribution system (project together with social insurance in Austria).
 | | Design and implementation of machine learning solutions for classification and transfer learning with neural networks for anomaly detection in computer network security (IoT4CPS project).
 | |
 
-| 2017-2019    |**Data Science freelancer**
+| 2017 - 2019    |**Data Science freelancer**
 | | Data analysis and statistical inference for semestral projects, academic theses and scientific reports, statistical consulting.
 | |
 
-| 2016-2019  |**Administrative assistant**, *TPC Transformátory, s.r.o., Liptovský Mikuláš, Slovakia*
+| 2016 - 2019  |**Administrative assistant**, *TPC Transformátory, s.r.o., Liptovský Mikuláš, Slovakia*
 | | Communication with customer in English, invoicing.
 | |
 
-|2012-2016    | **Administrative assistant**, *Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia*
+|2012 - 2016    | **Administrative assistant**, *Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia*
 |     | English - Slovak translations, assistance in creating website and marketing materials.
 | |
 
 #### Teaching Assistant
 
-|2022-now   | **Applied Statistics and Data Analysis** 
+|2022  - now   | **Applied Statistics and Data Analysis** 
 |     | semestral master course at SUPSI
-|2022-now   | **Artificial Intelligence, Deep Learning & Healthcare** 
+|2022  - now   | **Artificial Intelligence, Deep Learning & Healthcare** 
 |     |1 week summer school at Swiss School of Public Health
 |         |
 
@@ -90,7 +90,7 @@ nav: true
 
 |2017 sum.  | cleaning at Hjá Marlín, **Iceland**
 
-|2016 win.  | help in service in Restaurant Margaretenhof, **Germany**
+| 2016 win.  | help in service in Restaurant Margaretenhof, **Germany**
 
 |2016 sum.  | allrounder at Tölzer Hütte, **Austria**
 
@@ -163,19 +163,19 @@ nav: true
 
 ### Oral presentations
 
-|September.2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
+|September 2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
 |   |at Giornata della Ricerca e dell'Innovazione in Medicina Umana della Svizzera Italiana, Lugano, Switzerland
 
-|September.2024       |**AI and Statistics in Medicine** - invited talk
+|September 2024       |**AI and Statistics in Medicine** - invited talk
 |   |with Michal Bechný, at AI and Medical Devices Conference, Prague, Czech republic
 
-|March.2024             |**Personalising adaptive interventions with Machine Learning** - invited talk
+|March 2024             |**Personalising adaptive interventions with Machine Learning** - invited talk
 |   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
 
-|September.2023       |**Towards better health with wearables (and statistics)** 
+|September 2023       |**Towards better health with wearables (and statistics)** 
 |   | at 3rd Slovak and Czech Annual Symposium at ETH, Zürich, Switzerland
 
-|August.2020       |**A Semi-Supervised Approach for Network Intrusion Detection** 
+|August 2020       |**A Semi-Supervised Approach for Network Intrusion Detection** 
 |   | at 2nd Workshop on Industrial Security and IoT (WISI), The 15th International Conference on Availability, Reliability and Security (ARES), Dublin, Ireland, online due to pandemic
 
 |   |
