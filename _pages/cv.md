@@ -19,8 +19,8 @@ nav: true
 
 | **University**         | 
 |                        |
-| Sept. 2021-now             | **PhD student**, University of Bern, Switzerland - Cognitive Computational Neuroscience group
-|                        |supervisors: [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html), [Dr. Francesca Faraci](https://www.supsi.ch/francesca-dalia-faraci)
+| Sept. 2021-now             | **PhD student**, University of Bern and University of Applied Sciences and Arts of Southern Switzerland, Switzerland
+|                        |topic: *Lifestyle quantification with data driven causal algorithms and dynamic personalized behavioral change support system based on the data from wearables and contextual information* supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
 | May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Johannes Kepler University, Linz, Austria
 |                        |thesis *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)* supervised by [Assoz. Univ.-Prof.in Mag.a Dr.in Helga Wagner](https://www.jku.at/institut-fuer-angewandte-statistik/ueber-uns/team/assoz-univ-profin-maga-drin-helga-wagner/)
