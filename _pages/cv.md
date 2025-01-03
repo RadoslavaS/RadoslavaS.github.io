@@ -43,11 +43,11 @@ nav: true
 ### Work Experience ###
 
 | 2021 - now     |**PhD Student**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
-| | *Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling. 
-*Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires. 
-*Statistical consulting for other projects. 
-*Communication and definition of system requirements with healthcare professionals and external industry partners. 
-*Collaborating on writing of ethical proposals and scientific grant proposals.
+| | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling. 
+| | Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires. 
+| | Statistical consulting for other projects. 
+| | Communication and definition of system requirements with healthcare professionals and external industry partners. 
+| | Collaborating on writing of ethical proposals and scientific grant proposals.
 
 | 2019 - 2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
 | | Data analysis and statistical inference for projects involving collaborators from academia and industry, communication with customers, writting of reports for customers and scientific outcomes. Design and implementation of solutions for anomaly and fraud detection in the social contribution system (project together with social insurance in Austria), and classification and transfer learning for neural networks for anomaly detection in computer network security (IoT4CPS project).
