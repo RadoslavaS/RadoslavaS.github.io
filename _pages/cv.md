@@ -66,7 +66,7 @@ nav: true
 |     |1 week summer school at Swiss School of Public Health
 |         |
 
-##### Theses 
+##### Supervised theses 
 
 |2024 | **Wearable Data: Towards Data Extraction and Cross Device Feature Mapping Using NLP-Inspired Methods**, Delara Lomen, Bachelor Thesis at the Università della Svizzera italiana
 |            | 
