@@ -20,12 +20,13 @@ nav: true
 | **University**         | 
 |                        |
 | Sept. 2021-now             | **PhD student**, University of Bern, Switzerland - Cognitive Computational Neuroscience group
-|                        |
+|                        |supervisors: [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html), [Dr. Francesca Faraci](https://www.supsi.ch/francesca-dalia-faraci)
 |                        |
 | May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Johannes Kepler University, Linz, Austria
-|                        |
+|                        |thesis *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)* supervised by [Assoz. Univ.-Prof.in Mag.a Dr.in Helga Wagner](https://www.jku.at/institut-fuer-angewandte-statistik/ueber-uns/team/assoz-univ-profin-maga-drin-helga-wagner/)
+| |
 | June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
-|                        |
+|                        |thesis *Definite integral of single variable function and its applications* supervised by [Mgr. Iveta Bebčáková, Ph.D.](https://kma.upol.cz/katedra/lide/vizitka/bebcakova/)
 
 | **Attended courses**  | 
 |                        | 
@@ -78,10 +79,10 @@ nav: true
 
 ##### Supervised theses 
 
-|2024 | **Wearable Data: Towards Data Extraction and Cross Device Feature Mapping Using NLP-Inspired Methods**, Delara Lomen, Bachelor Thesis at the Università della Svizzera italiana
+|2024 | **Wearable Data: Towards Data Extraction and Cross Device Feature Mapping Using NLP-Inspired Methods** by Delara Lomen, Bachelor Thesis at the Università della Svizzera italiana
 |            | 
 
-|2023 | **Framework for personalized goal recommendation in habit creation. Wearable data analysis and feature extraction** Jakub Tłuczek, Master Thesis at the University of Neuchâtel
+|2023 | **Framework for personalized goal recommendation in habit creation. Wearable data analysis and feature extraction** by Jakub Tłuczek, Master Thesis at the University of Neuchâtel
 |            |
 
 #### Seasonal Jobs
