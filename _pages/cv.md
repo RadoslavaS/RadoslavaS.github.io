@@ -10,7 +10,7 @@ nav: true
 
 ### Personal Information ###
 
-| **Name**               | Radoslava Švihrová
+| **Name**               | Radoslava Švihrová (Radka)
 | **Based in**           | Lugano, Switzerland
 | **Nationality**        | Slovak
 |                        | ![Image of Radka](../assets/img/profile_pic.jpg)
@@ -22,9 +22,13 @@ nav: true
 
 | Sept. 2021-now             | PhD student in **Computer Science**, University of Bern and University of Applied Sciences and Arts of Southern Switzerland, Switzerland
 |                        |topic: *Lifestyle quantification with data driven causal algorithms from wearable and contextual data for adaptive personalized behavioral change support system* 
-| | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
+| | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Dalia Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
-| May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Johannes Kepler University, Linz, Austria
+| March 2025 - April 2025             | Visiting PhD student, Section of Biostatistics, University of Copenhagen, Denmark
+| | with [Ass. Prof. Anne Helby Petersen](https://researchprofiles.ku.dk/en/persons/anne-helby-petersen)
+|                        |
+
+| May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Institute of Applied Statistics, Johannes Kepler University, Linz, Austria
 |                        |thesis *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)* 
 | | supervised by [Assoz. Univ.-Prof.in Mag.a Dr.in Helga Wagner](https://www.jku.at/institut-fuer-angewandte-statistik/ueber-uns/team/assoz-univ-profin-maga-drin-helga-wagner/)
 | |
@@ -36,6 +40,7 @@ nav: true
 
 | **Attended courses**  | 
 
+|April 2025              |**European Causal Inference Meeting** Ghent, Belgium
 |April 2024              |**European Causal Inference Meeting** Copenhagen, Denmark
 |February 2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
 |June 2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
@@ -188,6 +193,9 @@ nav: true
 |   | at 2nd Workshop on Industrial Security and IoT (WISI), The 15th International Conference on Availability, Reliability and Security (ARES), Dublin, Ireland, online due to pandemic
 
 |   |
+
+### Scientific inpput
+|**Program committee**      | for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione), Lugano, Switzerland
 
 
 ### Language Skills

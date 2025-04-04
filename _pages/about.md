@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 |    |
 
-Hi, this is **Radka**! Statistician by training, machine learning enthusiast. 
+Hi, this is **Radka**! Aiming to bring statistical models to healthcare. Currently looking for new opportunities from October in the field of sequential decision making, causal inference or broader applied statistics. 
 
 Currently a **PhD student** at the [Cognitive Computational Neuroscience group](https://neuro.inf.unibe.ch/) located at the University of Bern. At the same time I am employed at the [Biomedical Signal Processing (BSP) group](https://bsp-meditech.ch/), part of the [Institute for Digital Technologies for Personalized Healthcare (MeDiTech)](https://www.supsi.ch/en/meditech) at the University of Applied Sciences and Arts of Southern Switzerland (SUPSI) in Lugano, Switzerland. Previously I was a **Researcher and Data Scientist** at the [Software Competence Center Hagenberg](https://www.scch.at/) in Austria, after graduating from master of **Statistics and Data Science** at [Johannes Kepler University](https://www.jku.at/institut-fuer-angewandte-statistik/) in Linz, Austria. Originally I come from Liptovský Mikuláš, Slovakia.
 
