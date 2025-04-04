@@ -195,6 +195,7 @@ nav: true
 |   |
 
 ### Scientific input
+
 |**Program committee**      | for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
 
 |   |
