@@ -20,19 +20,19 @@ nav: true
 
 | **University**         | 
 
-| Sept. 2021-now             | PhD student in **Computer Science**, University of Bern and University of Applied Sciences and Arts of Southern Switzerland, Switzerland
-|                        |topic: *Lifestyle quantification with data driven causal algorithms from wearable and contextual data for adaptive personalized behavioral change support system* 
+| 09/2021 - 09/2025             | PhD student in **Computer Science**, University of Bern and University of Applied Sciences and Arts of Southern Switzerland, Switzerland
+|                        |topic: *Lifestyle quantification with data driven causal algorithms from wearable and contextual data for adaptive personalized behavioral change support system* (working title)
 | | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Dalia Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
-| March 2025 - April 2025             | Visiting PhD student, Section of Biostatistics, University of Copenhagen, Denmark
+| 03/2025 - 04/2025             | Visiting PhD student, Section of Biostatistics, University of Copenhagen, Denmark
 | | with [Ass. Prof. Anne Helby Petersen](https://researchprofiles.ku.dk/en/persons/anne-helby-petersen)
 |                        |
 
-| May 2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Institute of Applied Statistics, Johannes Kepler University, Linz, Austria
+| 05/2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Institute of Applied Statistics, Johannes Kepler University, Linz, Austria
 |                        |thesis *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)* 
 | | supervised by [Assoz. Univ.-Prof.in Mag.a Dr.in Helga Wagner](https://www.jku.at/institut-fuer-angewandte-statistik/ueber-uns/team/assoz-univ-profin-maga-drin-helga-wagner/)
 | |
-| June 2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
+| 06/2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |thesis *Definite integral of single variable function and its applications* 
 | | supervised by [Mgr. Iveta Bebčáková, Ph.D.](https://kma.upol.cz/katedra/lide/vizitka/bebcakova/)
 | | 
@@ -40,21 +40,21 @@ nav: true
 
 | **Attended courses**  | 
 
-|April 2025              |**European Causal Inference Meeting** Ghent, Belgium
-|April 2024              |**European Causal Inference Meeting** Copenhagen, Denmark
-|February 2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
-|June 2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
+|04/2025              |**European Causal Inference Meeting** Ghent, Belgium
+|04/2024              |**European Causal Inference Meeting** Copenhagen, Denmark
+|02/2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
+|06/2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
 |                        | 
 
 | **High School**         | 
 
-| June 2013             | Matura, Billingual grammar school, Liptovský Mikuláš, Slovakia
+|06/2013             | Matura, Billingual grammar school, Liptovský Mikuláš, Slovakia
 |                        |
 
 
 ### Work Experience ###
 
-| 2021 - now     |**PhD Student**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
+| 09/2021 - 09/2025    |**PhD Student**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
 | | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling ([CUOREMA](https://www.cuorema.com/en/) project). 
 | | Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires ([CUOREMA](https://www.cuorema.com/en/), WRSD, MyDoctorLifestyle, RENEWAL projects).
 | | Collaborating on writing of ethical proposals and scientific grant proposals. Design of statistical methodology for feasibility studies ([CUOREMA](https://www.cuorema.com/en/), Wearables and well-being projects).
@@ -62,13 +62,13 @@ nav: true
 | | Statistical consulting for other projects at the institute. 
 | | 
 
-| 2019 - 2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
+| 06/2019 - 09/2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
 | | Data analysis and statistical inference for projects involving collaborators from academia and industry, writting of reports for customers and scientific outcomes, communication with customers. 
 | | Design and implementation of machine learning solutions for anomaly and fraud detection in the social contribution system (project together with social insurance in Austria).
 | | Design and implementation of machine learning solutions for classification and transfer learning with neural networks for anomaly detection in computer network security ([IoT4CPS](https://iot4cps.at/) project).
 | |
 
-| 2017 - 2019    |**Data Science freelancer**
+| 2017 - 2020   |**Data Science freelancer**
 | | Data analysis and statistical inference for semestral projects, academic theses and scientific reports, statistical consulting.
 | |
 
@@ -177,26 +177,26 @@ nav: true
 
 ### Oral presentations
 
-|September 2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
+|09/2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
 |   |at Giornata della Ricerca e dell'Innovazione in Medicina Umana della Svizzera Italiana, Lugano, Switzerland
 
-|September 2024       |**AI and Statistics in Medicine** - invited talk
+|09/2024       |**AI and Statistics in Medicine** - invited talk
 |   |with Michal Bechný, at AI and Medical Devices Conference, Prague, Czech republic
 
-|March 2024             |**Personalising adaptive interventions with Machine Learning** - invited talk
+|03/2024             |**Personalising adaptive interventions with Machine Learning** - invited talk
 |   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
 
-|September 2023       |**Towards better health with wearables (and statistics)** 
+|09/2023       |**Towards better health with wearables (and statistics)** 
 |   | at 3rd Slovak and Czech Annual Symposium at ETH, Zürich, Switzerland
 
-|August 2020       |**A Semi-Supervised Approach for Network Intrusion Detection** 
+|08/2020       |**A Semi-Supervised Approach for Network Intrusion Detection** 
 |   | at 2nd Workshop on Industrial Security and IoT (WISI), The 15th International Conference on Availability, Reliability and Security (ARES), Dublin, Ireland, online due to pandemic
 
 |   |
 
 ### Scientific input
 
-|**Program committee**      | for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
+|02/2025      |**Program committee member** for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
 
 |   |
 
