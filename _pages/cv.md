@@ -25,7 +25,7 @@ nav: true
 | | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Dalia Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
 | 03/2025 - 04/2025             | Visiting PhD student, Section of Biostatistics, University of Copenhagen, Denmark
-| | with [Ass. Prof. Anne Helby Petersen](https://researchprofiles.ku.dk/en/persons/anne-helby-petersen)
+| | with [Assist. Prof. Anne Helby Petersen](https://researchprofiles.ku.dk/en/persons/anne-helby-petersen)
 |                        |
 
 | 05/2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Institute of Applied Statistics, Johannes Kepler University, Linz, Austria
@@ -40,6 +40,7 @@ nav: true
 
 | **Attended courses**  | 
 
+|07/2025              |**Deep Learning Reinforcement Learning** Summer school, Edmonton, Canada
 |04/2025              |**European Causal Inference Meeting** Ghent, Belgium
 |04/2024              |**European Causal Inference Meeting** Copenhagen, Denmark
 |02/2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
@@ -227,6 +228,10 @@ nav: true
 
 
 ### Publications ###
+
+R. Švihrová, A. Dei Rossi, D. Marzorati, A. Tzovara, F.D. Faraci, <br>*[Personalized mHealth interventions through multi-armed bandits and causal inference: A review.](https://www.frontiersin.org/research-topics/58280/ai-for-health-behavior-change)* <br> 2025, Frontiers in Digital Health (Under revision)
+
+R. Švihrová, D. Marzorati, A. Dei Rossi, T. Gerosa, F.D. Faraci, <br>*[Data-driven causal discovery: Insights from a longitudinal study with wearable data.](https://aime25.aimedicine.info/)* <br> 2025, In Proceedings of the 23rd Conference on Artificial Intelligence in Medicine (AIME 2025) (Forthcoming)
 
 R. Švihrová <br>
    *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)*<br> 2020, Master Thesis, Johannes Kepler University, Linz, Austria
