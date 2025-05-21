@@ -229,7 +229,7 @@ nav: true
 
 ### Publications ###
 
-R. Švihrová, A. Dei Rossi, D. Marzorati, A. Tzovara, F.D. Faraci, <br>*[Designing digital health interventions with causal inference and multi-armed bandits: A review](https://www.frontiersin.org/research-topics/58280/ai-for-health-behavior-change)* <br> 2025, Frontiers in Digital Health (Under revision)
+R. Švihrová, A. Dei Rossi, D. Marzorati, A. Tzovara, F.D. Faraci, <br>*[Designing digital health interventions with causal inference and multi-armed bandits: A review](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1435917)* <br> 2025, Frontiers in Digital Health 
 
 R. Švihrová, D. Marzorati, A. Dei Rossi, T. Gerosa, F.D. Faraci, <br>*[Data-driven causal discovery: Insights from a longitudinal study with wearable data.](https://aime25.aimedicine.info/)* <br> 2025, In Proceedings of the 23rd Conference on Artificial Intelligence in Medicine (AIME 2025) (Forthcoming)
 
