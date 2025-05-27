@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 |    |
 
-Hi, this is **Radka**! Aiming to bring statistical models to healthcare. **Now looking for postdoc opportunities starting in the end of 2025 / beginning of 2026 in the field of sequential decision making, causal inference or broader applied statistics, in Switzerland**. 
+Hi, this is **Radka**! Aiming to bring statistical models to healthcare. **Now looking for new opportunities starting in the end of 2025 / beginning of 2026 in Switzerland:** either as a postdoc in the field of sequential decision making, causal inference or broader applied statistics, or as an applied researcher in industry. 
 
 Currently a **PhD student** at the [University of Bern](https://neuro.inf.unibe.ch/) and at the [Biomedical Signal Processing (BSP) group](https://bsp-meditech.ch/), part of the [MeDiTech institute](https://www.supsi.ch/en/meditech) at the University of Applied Sciences and Arts of Southern Switzerland (SUPSI) in Lugano, Switzerland. 
 Previously I was a **Researcher and Data Scientist** at the [Software Competence Center Hagenberg](https://www.scch.at/) in Austria, after graduating from master of **Statistics and Data Science** at [Johannes Kepler University](https://www.jku.at/institut-fuer-angewandte-statistik/) in Linz, Austria. 
