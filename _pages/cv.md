@@ -244,6 +244,7 @@ M.Bechný, R. Švihrová, L.G. Arango, A. Baldassari, Y. Ilchenko, M. Grossenbac
 
 
 ### Presentations
+
 | **Oral** |
 
 |09/2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
