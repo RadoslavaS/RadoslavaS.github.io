@@ -24,7 +24,7 @@ nav: true
 |                        |topic: *Lifestyle quantification with data driven causal algorithms from wearable and contextual data for adaptive personalized behavioral change support system* (working title)
 | | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Dalia Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
-| 03/2025 - 04/2025             | Visiting PhD student, Section of Biostatistics, University of Copenhagen, Denmark
+| 03/2025 - 04/2025      | **Visiting** PhD student, Section of Biostatistics, University of Copenhagen, Denmark
 | | with [Assist. Prof. Anne Helby Petersen](https://researchprofiles.ku.dk/en/persons/anne-helby-petersen)
 |                        |
 
@@ -168,6 +168,7 @@ nav: true
 ### Grants
 
 |2024       |**UniBE Short Travel Grants for (Post)Docs**
+| | Research stay at the University of Copenhagen in 2025
 
 |2023       |**Labfront: Wearables and well-being**
 | | Aiming to understand feasibility of telemonitoring with wearables for well-being
@@ -200,6 +201,17 @@ nav: true
 |02/2025      |**Program committee member** for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
 
 |   |
+
+### Certificates
+
+|02/2025      | **Data or Speciments Only Research** by CITI program, [certificate](https://www.citiprogram.org/verify/?w7a24a597-7515-46c8-911e-e84506fe319e-67970554) (expires 02/2028)
+
+|09/2021      | **Transfer Learning for NLP with TensorFlow Hub** by Coursera project network, [certificate](https://www.coursera.org/account/accomplishments/verify/4E5E2BB7AAMH)
+
+|11/2020      | **Natural Language Processing with Classification and Vector Spaces** by Deeplearning.AI at Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/K8GVYC469F4U)
+
+|   |
+
 
 ### Language Skills
 
