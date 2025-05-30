@@ -188,6 +188,7 @@ nav: true
 
 
 ### Presentations
+| **Oral** |
 
 |09/2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
 |   | Giornata della Ricerca e dell'Innovazione in Medicina Umana della Svizzera Italiana, Lugano, Switzerland
@@ -223,7 +224,7 @@ nav: true
 |10/2023  | **Towards personalized burnout prevention system: Causal inference approach for understanding the effect of circadian rhythm disruption on well-being**
 |  | World Sleep Congress, 2023, Rio de Janeiro, Brazil
 
-|  | **Towards personalized burnout prevention system: a probabilistic approach for analysis of data from wearable devices with subjective feedback. A preliminary study**
+|09/2022  | **Towards personalized burnout prevention system: a probabilistic approach for analysis of data from wearable devices with subjective feedback. A preliminary study**
 |  | 26th Meeting of the European Sleep Research Society, 2022, Athens, Greece
 
 |   |
