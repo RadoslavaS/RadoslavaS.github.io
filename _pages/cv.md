@@ -43,9 +43,19 @@ nav: true
 |07/2025              |**Deep Learning Reinforcement Learning** Summer school, Edmonton, Canada
 |04/2025              |**European Causal Inference Meeting** Ghent, Belgium
 |04/2024              |**European Causal Inference Meeting** Copenhagen, Denmark
-|02/2024          | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
+|02/2024              | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
 |06/2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
 |                        | 
+
+| **Certificates**  | 
+
+|02/2025      | **Data or Speciments Only Research** by CITI program, [certificate](https://www.citiprogram.org/verify/?w7a24a597-7515-46c8-911e-e84506fe319e-67970554) (expires 02/2028)
+
+|09/2021      | **Transfer Learning for NLP with TensorFlow Hub** by Coursera project network, [certificate](https://www.coursera.org/account/accomplishments/verify/4E5E2BB7AAMH)
+
+|11/2020      | **Natural Language Processing with Classification and Vector Spaces** by Deeplearning.AI at Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/K8GVYC469F4U)
+
+|   |
 
 | **High School**         | 
 
@@ -168,7 +178,7 @@ nav: true
 ### Grants
 
 |2024       |**UniBE Short Travel Grants for (Post)Docs**
-| | Research stay at the University of Copenhagen in 2025
+| | For the research stay at the University of Copenhagen in 2025 and attendance of EUROCIM 2025
 
 |2023       |**Labfront: Wearables and well-being**
 | | Aiming to understand feasibility of telemonitoring with wearables for well-being
@@ -177,38 +187,50 @@ nav: true
 |   |
 
 
-### Oral presentations
+### Presentations
 
 |09/2024       |**Wearables and Sleep: Effect of circadian rhythm disruption on sleep quality, recovery and well-being** 
-|   |at Giornata della Ricerca e dell'Innovazione in Medicina Umana della Svizzera Italiana, Lugano, Switzerland
+|   | Giornata della Ricerca e dell'Innovazione in Medicina Umana della Svizzera Italiana, Lugano, Switzerland
 
 |09/2024       |**AI and Statistics in Medicine** - invited talk
 |   |with Michal Bechný, at AI and Medical Devices Conference, Prague, Czech republic
 
 |03/2024             |**Personalising adaptive interventions with Machine Learning** - invited talk
-|   |at Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
+|   | Applied Machine Learning Days (AMLD) at EPFL, Lausanne, Switzerland
 
 |09/2023       |**Towards better health with wearables (and statistics)** 
-|   | at 3rd Slovak and Czech Annual Symposium at ETH, Zürich, Switzerland
+|   | 3rd Slovak and Czech Annual Symposium at ETH, Zürich, Switzerland
 
 |08/2020       |**A Semi-Supervised Approach for Network Intrusion Detection** 
-|   | at 2nd Workshop on Industrial Security and IoT (WISI), The 15th International Conference on Availability, Reliability and Security (ARES), Dublin, Ireland, online due to pandemic
+|   | 2nd Workshop on Industrial Security and IoT (WISI), The 15th International Conference on Availability, Reliability and Security (ARES), Dublin, Ireland, online due to pandemic
+
+|   |
+
+| **Posters** |
+
+|06/2025  | **Data-driven causal discovery: Insights from a longitudinal study with wearable data.**
+|   | 23rd International Conference on AI in Medicine ([AIME 2025](https://aime25.aimedicine.info/)), Pavia, Italy
+
+|04/2025  | **Data-driven causal discovery in lifestyle modelling: Insights from a longitudinal study with wearable data.**
+|  | European Causal Inference Meeting ([EuroCIM 2025](https://eurocim.org/)), Ghent, Belgium
+
+|09/2024  | **Wearables and sleep: effect of circadian rhythm disruption on sleep quality, recovery and well-being**
+|  | 27th Meeting of the European Sleep Research Society, 2024, Seville, Spain
+
+|03/2024  | **Towards better sleep with wearables and statistics: Understanding the effect of circadian rhythm disruption on sleep quality and well-being**
+|  | Applied Machine Learning Days (AMLD 2024) at EPFL, Lausanne, Switzerland
+
+|10/2023  | **Towards personalized burnout prevention system: Causal inference approach for understanding the effect of circadian rhythm disruption on well-being**
+|  | World Sleep Congress, 2023, Rio de Janeiro, Brazil
+
+|  | **Towards personalized burnout prevention system: a probabilistic approach for analysis of data from wearable devices with subjective feedback. A preliminary study**
+|  | 26th Meeting of the European Sleep Research Society, 2022, Athens, Greece
 
 |   |
 
 ### Scientific input
 
 |02/2025      |**Program committee member** for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
-
-|   |
-
-### Certificates
-
-|02/2025      | **Data or Speciments Only Research** by CITI program, [certificate](https://www.citiprogram.org/verify/?w7a24a597-7515-46c8-911e-e84506fe319e-67970554) (expires 02/2028)
-
-|09/2021      | **Transfer Learning for NLP with TensorFlow Hub** by Coursera project network, [certificate](https://www.coursera.org/account/accomplishments/verify/4E5E2BB7AAMH)
-
-|11/2020      | **Natural Language Processing with Classification and Vector Spaces** by Deeplearning.AI at Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/K8GVYC469F4U)
 
 |   |
 
