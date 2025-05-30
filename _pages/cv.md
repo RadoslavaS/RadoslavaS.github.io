@@ -25,6 +25,7 @@ nav: true
 | | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Dalia Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
 | 03/2025 - 04/2025      | **Visiting** PhD student, Section of Biostatistics, University of Copenhagen, Denmark
+| | topic: *Causal discovery and inference from time series data: towards dynamic causal network*
 | | with [Assist. Prof. Anne Helby Petersen](https://researchprofiles.ku.dk/en/persons/anne-helby-petersen)
 |                        |
 
