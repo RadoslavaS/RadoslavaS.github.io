@@ -50,7 +50,7 @@ nav: true
 
 | **Certificates**  | 
 
-|02/2025      | **Data or Speciments Only Research** by CITI program, [certificate](https://www.citiprogram.org/verify/?w7a24a597-7515-46c8-911e-e84506fe319e-67970554) (expires 02/2028)
+|02/2025      | **Data or Specimens Only Research** by CITI program, [certificate](https://www.citiprogram.org/verify/?w7a24a597-7515-46c8-911e-e84506fe319e-67970554) (expires 02/2028)
 
 |09/2021      | **Transfer Learning for NLP with TensorFlow Hub** by Coursera project network, [certificate](https://www.coursera.org/account/accomplishments/verify/4E5E2BB7AAMH)
 
