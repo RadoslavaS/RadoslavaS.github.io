@@ -229,9 +229,9 @@ nav: true
 
 ### Publications ###
 
-R. Švihrová, D. Marzorati, M. Bechny, M. Grossenbacher, Y. Ilchenko, J. Grossenbacher, A. Tzovara, F.D. Faraci, <br>*[Towards burnout prevention with bayesian mixed-effects regression analysis of longitudinal data from wearables: A preliminary study](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1640900)* <br> 2025, Frontiers in Digital Health - Sec. Digital Mental Health
+R. Švihrová, D. Marzorati, M. Bechny, M. Grossenbacher, Y. Ilchenko, J. Grossenbacher, A. Tzovara, F.D. Faraci, <br>*[Toward burnout prevention with Bayesian mixed-effects regression analysis of longitudinal data from wearables: a preliminary study](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1640900)* <br> 2025, Frontiers in Digital Health - Sec. Digital Mental Health
 
-R. Švihrová, A. Dei Rossi, D. Marzorati, A. Tzovara, F.D. Faraci, <br>*[Designing digital health interventions with causal inference and multi-armed bandits: A review](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1435917)* <br> 2025, Frontiers in Digital Health 
+R. Švihrová, A. Dei Rossi, D. Marzorati, A. Tzovara, F.D. Faraci, <br>*[Designing digital health interventions with causal inference and multi-armed bandits: a review](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1435917)* <br> 2025, Frontiers in Digital Health 
 
 R. Švihrová, D. Marzorati, A. Dei Rossi, T. Gerosa, F.D. Faraci, <br>*[Data-driven causal discovery: Insights from a longitudinal study with wearable data.](https://link.springer.com/chapter/10.1007/978-3-031-95841-0_75)* <br> 2025, In Proceedings of the 23rd Conference on Artificial Intelligence in Medicine (AIME 2025)
 
