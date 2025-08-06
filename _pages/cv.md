@@ -178,6 +178,12 @@ nav: true
 
 ### Grants
 
+|2025       |**Travel grant by Faculty of Science, University of Bern**
+| | For attendance at the World Sleep Congress 2025 in Singapore
+
+|2025       |**CIFAR travel grant**
+| | For attendance at the Deep Learning Reinforcement Learning summer school 2025
+
 |2024       |**UniBE Short Travel Grants for (Post)Docs**
 | | For the research stay at the University of Copenhagen in 2025 and attendance of EUROCIM 2025
 
@@ -223,6 +229,8 @@ nav: true
 
 ### Publications ###
 
+R. Švihrová, D. Marzorati, M. Bechny, M. Grossenbacher, Y. Ilchenko, J. Grossenbacher, A. Tzovara, F.D. Faraci, <br>*[Towards burnout prevention with bayesian mixed-effects regression analysis of longitudinal data from wearables: A preliminary study](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1640900)* <br> 2025, Frontiers in Digital Health - Sec. Digital Mental Health
+
 R. Švihrová, A. Dei Rossi, D. Marzorati, A. Tzovara, F.D. Faraci, <br>*[Designing digital health interventions with causal inference and multi-armed bandits: A review](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1435917)* <br> 2025, Frontiers in Digital Health 
 
 R. Švihrová, D. Marzorati, A. Dei Rossi, T. Gerosa, F.D. Faraci, <br>*[Data-driven causal discovery: Insights from a longitudinal study with wearable data.](https://link.springer.com/chapter/10.1007/978-3-031-95841-0_75)* <br> 2025, In Proceedings of the 23rd Conference on Artificial Intelligence in Medicine (AIME 2025)
@@ -233,6 +241,14 @@ R. Švihrová <br>
 R. Švihrová, Ch. Lettner, <br>*[A semi-supervised approach for network intrusion detection](https://dl.acm.org/doi/abs/10.1145/3407023.3407073?casa_token=FDPimpdMD7wAAAAA:cBsl-lvN921TS-UUUhRwXoO4OGDK6m0isws4YJTJWc9JvbRxbkBFztfoLZ412GGZwut3fSkqFzI8xqY)* <br> 2020, In Proceedings of the 15th International Conference on Availability, Reliability and Security (pp. 1-6)
 
 ### Abstracts ###
+
+R. Švihrová, A. H. Petersen, D. Marzorati, A. Dei Rossi, A. Tzovara, T. Gerosa, F. D.Faraci <br>
+   *Towards Digital Twins with Wearables: A Fully Data-driven Causal Analysis of Lifestyle Effects on Sleep*
+   <br>Presented at the World Sleep Congress, 2025, Singapore
+
+R. Švihrová, A. Dei Rossi, D. Marzoratti, F.D. Faraci <br>
+   *Sleep Health Quantification with Wearables: A Causal Inference Approach*
+   <br>Presented at the World Sleep Congress, 2025, Singapore
 
 R. Švihrová, A. Dei Rossi, D. Marzoratti, A. Tzovara, F.D. Faraci <br>
    *Wearables and sleep: effect of circadian rhythm disruption on sleep quality, recovery and well-being*, <br>Presented at the 27th Meeting of the European Sleep Research Society, 2024, Seville, Spain
@@ -266,6 +282,12 @@ M.Bechný, R. Švihrová, L.G. Arango, A. Baldassari, Y. Ilchenko, M. Grossenbac
 |   |
 
 | **Posters** |
+
+|09/2025  | **Towards Digital Twins with Wearables: A Fully Data-driven Causal Analysis of Lifestyle Effects on Sleep**
+|   | World Sleep Congress, 2025, Singapore
+
+|09/2025  | **Sleep Health Quantification with Wearables: A Causal Inference Approach**
+|   | World Sleep Congress, 2025, Singapore
 
 |06/2025  | **Data-driven causal discovery: Insights from a longitudinal study with wearable data.**
 |   | 23rd International Conference on AI in Medicine ([AIME 2025](https://aime25.aimedicine.info/)), Pavia, Italy
