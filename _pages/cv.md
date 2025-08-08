@@ -41,7 +41,7 @@ nav: true
 
 | **Attended courses**  | 
 
-|07/2025              |**Deep Learning Reinforcement Learning** Summer school, Edmonton, Canada
+|07/2025              |**Deep Learning Reinforcement Learning** Summer school [certificate](https://certificates.amii.ca/724da39e-acf3-479d-bd77-050580b97c5e#acc.7s1gSqOf), Edmonton, Canada
 |04/2025              |**European Causal Inference Meeting** Ghent, Belgium
 |04/2024              |**European Causal Inference Meeting** Copenhagen, Denmark
 |02/2024              | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
