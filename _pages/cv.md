@@ -13,6 +13,7 @@ nav: true
 | **Name**               | Radoslava Švihrová (Radka)
 | **Based in**           | Lugano, Switzerland
 | **Nationality**        | Slovak
+| **CV**                 | [link](https://docs.google.com/document/d/1PRv5-lJVsgOMECwmTSsfDamZEMs_5LDtPhLqJRbKopk/edit?usp=sharing)
 |                        | ![Image of Radka](../assets/img/profile_pic.jpg)
 | |
 
@@ -240,14 +241,14 @@ R. Švihrová <br>
 
 R. Švihrová, Ch. Lettner, <br>*[A semi-supervised approach for network intrusion detection](https://dl.acm.org/doi/abs/10.1145/3407023.3407073?casa_token=FDPimpdMD7wAAAAA:cBsl-lvN921TS-UUUhRwXoO4OGDK6m0isws4YJTJWc9JvbRxbkBFztfoLZ412GGZwut3fSkqFzI8xqY)* <br> 2020, In Proceedings of the 15th International Conference on Availability, Reliability and Security (pp. 1-6)
 
-### Abstracts ###
+### Abstracts (indexed) ###
 
 R. Švihrová, A. H. Petersen, D. Marzorati, A. Dei Rossi, A. Tzovara, T. Gerosa, F. D.Faraci <br>
-   *Towards Digital Twins with Wearables: A Fully Data-driven Causal Analysis of Lifestyle Effects on Sleep*
+   *Towards Digital Twins with Wearables: A Fully Data-driven Causal Analysis of Lifestyle Effects on Sleep Biomarkers*
    <br>Presented at the World Sleep Congress, 2025, Singapore
 
 R. Švihrová, A. Dei Rossi, D. Marzoratti, F.D. Faraci <br>
-   *Sleep Health Quantification with Wearables: A Causal Inference Approach*
+   *Wearable-derived Sleep Digital Biomarkers and Well-being: Preliminary Insights from Longitudinal Observational Study.*
    <br>Presented at the World Sleep Congress, 2025, Singapore
 
 R. Švihrová, A. Dei Rossi, D. Marzoratti, A. Tzovara, F.D. Faraci <br>
@@ -283,10 +284,10 @@ M.Bechný, R. Švihrová, L.G. Arango, A. Baldassari, Y. Ilchenko, M. Grossenbac
 
 | **Posters** |
 
-|09/2025  | **Towards Digital Twins with Wearables: A Fully Data-driven Causal Analysis of Lifestyle Effects on Sleep**
+|09/2025  | **Towards Digital Twins with Wearables: A Fully Data-driven Causal Analysis of Lifestyle Effects on Sleep Biomarkers**
 |   | World Sleep Congress, 2025, Singapore
 
-|09/2025  | **Sleep Health Quantification with Wearables: A Causal Inference Approach**
+|09/2025  | **Wearable-derived Sleep Digital Biomarkers and Well-being: Preliminary Insights from Longitudinal Observational Study.**
 |   | World Sleep Congress, 2025, Singapore
 
 |06/2025  | **Data-driven causal discovery: Insights from a longitudinal study with wearable data.**
