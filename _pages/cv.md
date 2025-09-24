@@ -13,7 +13,6 @@ nav: true
 | **Name**               | Radoslava Švihrová (Radka)
 | **Based in**           | Lugano, Switzerland
 | **Nationality**        | Slovak
-| **CV**                 | [link](https://docs.google.com/document/d/1PRv5-lJVsgOMECwmTSsfDamZEMs_5LDtPhLqJRbKopk/edit?usp=sharing)
 |                        | ![Image of Radka](../assets/img/profile_pic.jpg)
 | |
 
