@@ -20,7 +20,7 @@ nav: true
 
 | **University**         | 
 
-| 09/2021 - 09/2025             | PhD student in **Computer Science**, University of Bern and University of Applied Sciences and Arts of Southern Switzerland, Switzerland
+| 09/2021 - 11/2025             | PhD student in **Computer Science**, University of Bern and University of Applied Sciences and Arts of Southern Switzerland, Switzerland
 |                        |topic: *Lifestyle quantification with data driven causal algorithms from wearable and contextual data for adaptive personalized behavioral change support system* (working title)
 | | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Dalia Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
