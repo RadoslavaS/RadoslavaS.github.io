@@ -11,7 +11,7 @@ nav: true
 ### Personal Information ###
 
 | **Name**               | Radoslava Švihrová (Radka)
-| **Based in**           | Lugano, Switzerland
+| **Based in**           | Zürich, Switzerland
 | **Nationality**        | Slovak
 |                        | ![Image of Radka](../assets/img/profile_pic.jpg)
 | |
@@ -20,20 +20,20 @@ nav: true
 
 | **University**         | 
 
-| 09/2021 - 11/2025             | PhD student in **Computer Science**, University of Bern and University of Applied Sciences and Arts of Southern Switzerland, Switzerland
-|                        |topic: *Lifestyle quantification with data driven causal algorithms from wearable and contextual data for adaptive personalized behavioral change support system* (working title)
+| 09/2021 - 11/2025             | PhD in **Computer Science**, University of Bern, Switzerland
+|                        |thesis: *Adaptive Interventions and Causal Inference in Digital Health*
 | | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Dalia Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
-| 03/2025 - 04/2025      | **Visiting** PhD student, Section of Biostatistics, University of Copenhagen, Denmark
+| 03/2025 - 04/2025      | **Visiting**, Section of Biostatistics, University of Copenhagen, Denmark
 | | topic: *Causal discovery and inference from time series data: towards dynamic causal network*
 | | with [Assist. Prof. Anne Helby Petersen](https://researchprofiles.ku.dk/en/persons/anne-helby-petersen)
 |                        |
 
-| 05/2020             | Diploma (MSc.) in **Statistics** with focus of Data Science, Institute of Applied Statistics, Johannes Kepler University, Linz, Austria
+| 09/2017 - 05/2020             | MSc. in **Statistics** with focus of Data Science, Institute of Applied Statistics, Johannes Kepler University, Linz, Austria
 |                        |thesis *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)* 
 | | supervised by [Assoz. Univ.-Prof.in Mag.a Dr.in Helga Wagner](https://www.jku.at/institut-fuer-angewandte-statistik/ueber-uns/team/assoz-univ-profin-maga-drin-helga-wagner/)
 | |
-| 06/2017              | Diploma (Bc.) in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
+| 09/2013 - 06/2017              | Bc. in **Mathematics** with focus on economics and banking, Palacký University Olomouc, Czech republic
 |                        |thesis *Definite integral of single variable function and its applications* 
 | | supervised by [Mgr. Iveta Bebčáková, Ph.D.](https://kma.upol.cz/katedra/lide/vizitka/bebcakova/)
 | | 
@@ -94,10 +94,10 @@ nav: true
 
 #### Teaching Assistant
 
-|2022  - now   | **Applied Statistics and Data Analysis** 
+|2022  - 2025   | **Applied Statistics and Data Analysis** 
 |     | semestral master course at SUPSI
-|2022  - now   | **Artificial Intelligence, Deep Learning & Healthcare** 
-|     |1 week summer school at Swiss School of Public Health
+|2022  - 2025   | **Artificial Intelligence, Deep Learning & Healthcare** 
+|     |1 week summer school at Swiss School of Public Health, organized by BSP-SUPSI
 |         |
 
 | **Supervised Theses**  | 
@@ -141,40 +141,6 @@ nav: true
 
 |   |
 
-{% comment %}
-
-###  Competencies in Field
-
-|**Statistical modeling**                          |
-
-|**Bayesian inference**                          |learning
-
-|**Causal inference**                          |learning
-
-|**Wearables**                          |
-
-
-### Research Interests
-
-|**Statistical modeling**       |
-
-|**Causal inference**       |
-
-|**Probabilistic models**       |
-
-|**Reinforcement learning**       |
-
-|**Generative models**       |
-
-|**Wearables**       |
-
-|**Complex interventions**       |
-
-|   |
-
-
-{% endcomment %}
-
 
 ### Grants
 
@@ -189,7 +155,7 @@ nav: true
 
 |2023       |**Labfront: Wearables and well-being**
 | | Aiming to understand feasibility of telemonitoring with wearables for well-being
-| | Currently looking for participants across Switzerland for data collection, more details for interested participants [on this link](https://docs.google.com/document/d/1YDw9lGH0aDt4WNMcH8VgFXD6KM10ytLV/edit?usp=sharing&ouid=100026897104344956854&rtpof=true&sd=true)
+| | Dataset to be published soon.
 
 |   |
 
@@ -227,7 +193,13 @@ nav: true
 
 
 
-### Publications ###
+### First-author publications ###
+
+R. Švihrová <br>
+   *Adaptive Interventions and Causal Inference in Digital Health*<br> 2025, Dissertation Thesis, University of Bern, Bern, Switzerland
+
+R. Švihrová, A.H. Petersen, D. Marzorati, A. Dei Rossi, T. Gerosa, F.D. Faraci, <br>*[Fully data-driven causal inference with longitudinal data from wearables](https://www.techrxiv.org/users/992468/articles/1355643-fully-data-driven-causal-inference-with-longitudinal-data-from-wearables)* <br> 2025, preprint TechRxiv
+
 
 R. Švihrová, D. Marzorati, M. Bechny, M. Grossenbacher, Y. Ilchenko, J. Grossenbacher, A. Tzovara, F.D. Faraci, <br>*[Toward burnout prevention with Bayesian mixed-effects regression analysis of longitudinal data from wearables: a preliminary study](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1640900)* <br> 2025, Frontiers in Digital Health - Sec. Digital Mental Health
 
