@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 |    |
 
-Hi, this is **Radka**! Aiming to bring statistical models to healthcare. With just finished PhD in Computer Science, I am **now looking for new opportunities in Zürich and surroundings:** either as a postdoc in the field of causal inference, sequential decision making or broader applied statistics, or as an applied researcher in industry. 
+Hi, this is **Radka**! Aiming to bring statistical models to healthcare. With **just finished PhD** in Computer Science, I am **now looking for new opportunities in Zürich and surroundings:** either as a postdoc in the field of causal inference, sequential decision making or broader applied statistics, or as an applied researcher in industry. 
 
-I worked as a **PhD student and research assistant** at the [BSP group](https://bsp-meditech.ch/), part of the [MeDiTech institute](https://www.supsi.ch/en/meditech) at SUPSI in Lugano, Switzerland. Before I was a **Researcher and Data Scientist** at the [SCCH](https://www.scch.at/) in Austria, after graduating from master of **Statistics and Data Science** at [Johannes Kepler University](https://www.jku.at/institut-fuer-angewandte-statistik/) in Linz, Austria. 
+I worked as a **Doctoral researcher** at the [BSP group](https://bsp-meditech.ch/), part of the [MeDiTech institute](https://www.supsi.ch/en/meditech) at SUPSI in Lugano, Switzerland. Before I was a **Researcher and Data Scientist** at the [SCCH](https://www.scch.at/) in Austria, after graduating from master of **Statistics and Data Science** at [Johannes Kepler University](https://www.jku.at/institut-fuer-angewandte-statistik/) in Linz, Austria. 
 Originally I come from Liptovský Mikuláš, Slovakia.
 
 My current research focus is on applications of **sequential decision making and inference** for behavioral change systems and lifestyle quantification, utilising longitudinal wearable data combined with contextual information. During my PhD I developed a system for personalised nudging in e-health mobile application CUOREMA by utilising **bandits from reinforcement learning**. For the evaluation of its effectivness and better lifestyle quantification I exploited principles from **causal inference** and **causal discovery**. I am also interested in adaptive clinical trials and real world evidence from observational data.

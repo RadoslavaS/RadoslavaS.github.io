@@ -20,7 +20,7 @@ nav: true
 
 | **University**         | 
 
-| 09/2021 - 11/2025             | PhD in **Computer Science**, University of Bern, Switzerland
+| 09/2021 - 11/2025             | PhD. in **Computer Science**, University of Bern, Switzerland
 |                        |thesis: *Adaptive Interventions and Causal Inference in Digital Health*
 | | supervised by [Prof. Dr. Athina Tzovara](https://neuro.inf.unibe.ch/menu/atzovara.html) (UniBE), [Dr. Francesca Dalia Faraci](https://www.supsi.ch/francesca-dalia-faraci) (SUPSI)
 |                        |
@@ -66,7 +66,7 @@ nav: true
 
 ### Work Experience ###
 
-| 09/2021 - 09/2025    |**PhD Student**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
+| 09/2021 - 09/2025    |**Doctoral researcher**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
 | | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling ([CUOREMA](https://www.cuorema.com/en/) project). 
 | | Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires ([CUOREMA](https://www.cuorema.com/en/), WRSD, MyDoctorLifestyle, RENEWAL projects).
 | | Collaborating on writing of ethical proposals and scientific grant proposals. Design of statistical methodology for feasibility studies ([CUOREMA](https://www.cuorema.com/en/), Wearables and well-being projects).
