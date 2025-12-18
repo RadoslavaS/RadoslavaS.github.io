@@ -24,26 +24,24 @@ nav: true
 
 **Švihrová, R.**, Marzorati, D., Dei Rossi, A., Gerosa, T., Faraci, F.D. <br>*[Data-driven causal discovery: Insights from a longitudinal study with wearable data.](https://link.springer.com/chapter/10.1007/978-3-031-95841-0_75)* <br> 2025, In Proceedings of the 23rd Conference on Artificial Intelligence in Medicine (AIME 2025)
 
-**Švihrová, R.**, Lettner, Ch. <br>*[A semi-supervised approach for network intrusion detection](https://dl.acm.org/doi/abs/10.1145/3407023.3407073?casa_token=FDPimpdMD7wAAAAA:cBsl-lvN921TS-UUUhRwXoO4OGDK6m0isws4YJTJWc9JvbRxbkBFztfoLZ412GGZwut3fSkqFzI8xqY)* <br> 2020, In Proceedings of the 15th International Conference on Availability, Reliability and Security (pp. 1-6)
-
-#### Abstracts (indexed) ####
-
 **Švihrová, R.**, Petersen, A.H., Marzorati, D., Dei Rossi, A., Tzovara, A., Gerosa, T., Faraci, F.D. <br>
    *[Towards Digital Twins with Wearables: A Fully Data-driven Causal Analysis of Lifestyle Effects on Sleep Biomarkers](https://zenodo.org/records/17055613)*
-   <br>Presented at the World Sleep Congress, 2025, Singapore
+   <br> 2025, Journal of Sleep Medicine
 
 **Švihrová, R.**, Marzorati, D., Dei Rossi, A., Faraci, F.D. <br>
    *Wearable-derived Sleep Digital Biomarkers and Well-being: Preliminary Insights from Longitudinal Observational Study.*
-   <br>Presented at the World Sleep Congress, 2025, Singapore
+   <br> 2025, Journal of Sleep Medicine
 
 **Švihrová, R.**, Dei Rossi, A., Marzorati, D., Tzovara, A., Faraci, F.D. <br>
-   *Wearables and sleep: effect of circadian rhythm disruption on sleep quality, recovery and well-being*, <br>Presented at the 27th Meeting of the European Sleep Research Society, 2024, Seville, Spain
+   *Wearables and sleep: effect of circadian rhythm disruption on sleep quality, recovery and well-being*, <br> 2024, Journal of Sleep Medicine
 
 **Švihrová, R.**, Dei Rossi, A., Marzorati, D., Bechny, M., Grossenbacher, M., Faraci, F.D. <br>
-   *[Towards personalized burnout prevention system: Causal inference approach for understanding the effect of circadian rhythm disruption on well-being](https://www.sciencedirect.com/science/article/pii/S1389945723006433?via%3Dihub)*, <br>Presented at the World Sleep Congress, 2023, Rio de Janeiro, Brazil
+   *[Towards personalized burnout prevention system: Causal inference approach for understanding the effect of circadian rhythm disruption on well-being](https://www.sciencedirect.com/science/article/pii/S1389945723006433?via%3Dihub)*, <br> 2024, Journal of Sleep Medicine
 
 Bechný, M. & **Švihrová, R.**, Arango, L.G., Baldassari, A., Ilchenko, Y., Grossenbacher, M., Faraci, F.D. <br>
-   *Towards personalized burnout prevention system: a probabilistic approach for analysis of data from wearable devices with subjective feedback. A preliminary study*, <br>Presented at the 26th Meeting of the European Sleep Research Society, 2022, Athens, Greece
+   *Towards personalized burnout prevention system: a probabilistic approach for analysis of data from wearable devices with subjective feedback. A preliminary study*, <br> 2022, Journal of Sleep Medicine
+
+**Švihrová, R.**, Lettner, Ch. <br>*[A semi-supervised approach for network intrusion detection](https://dl.acm.org/doi/abs/10.1145/3407023.3407073?casa_token=FDPimpdMD7wAAAAA:cBsl-lvN921TS-UUUhRwXoO4OGDK6m0isws4YJTJWc9JvbRxbkBFztfoLZ412GGZwut3fSkqFzI8xqY)* <br> 2020, In Proceedings of the 15th International Conference on Availability, Reliability and Security (pp. 1-6)
 
 ### Co-authored publications ###
 
