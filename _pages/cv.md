@@ -114,6 +114,8 @@ nav: true
 
 |**Experiences**   | SQL, Git, MongoDB
 
+|   |
+
 #### Seasonal Jobs
 
 |2018 sum.  | allrounder at Hotel Tiefenbach, **Switzerland**
