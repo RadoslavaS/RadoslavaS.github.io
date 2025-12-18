@@ -8,11 +8,9 @@ nav: true
 
 ### Theses ###
 
-2025: Dissertation Thesis, University of Bern, Bern, Switzerland <br>
-   *Adaptive Interventions and Causal Inference in Digital Health*<br> 
+<br> *Adaptive Interventions and Causal Inference in Digital Health*<br> 2025, Dissertation Thesis, University of Bern, Bern, Switzerland 
 
-2020: Master Thesis, Johannes Kepler University, Linz, Austria <br>
-   *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)*<br> 
+<br> *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)*<br> 2020, Master Thesis, Johannes Kepler University, Linz, Austria
 
 ### First-author publications ###
 

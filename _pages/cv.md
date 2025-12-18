@@ -11,7 +11,7 @@ nav: true
 ### Personal Information ###
 
 | **Name**               | Radoslava Švihrová (Radka)
-| **Based in**           | Zürich, Switzerland
+| **Based in**           | Zürich, Switzerland (work permit B)
 | **Nationality**        | Slovak
 |                        | ![Image of Radka](../assets/img/profile_pic.jpg)
 | |
@@ -41,12 +41,12 @@ nav: true
 
 | **Attended courses**  | 
 
-|07/2025              |**Deep Learning Reinforcement Learning** Summer school [certificate](https://certificates.amii.ca/724da39e-acf3-479d-bd77-050580b97c5e#acc.7s1gSqOf), Edmonton, Canada
-|04/2025              |**European Causal Inference Meeting** Ghent, Belgium
-|04/2024              |**European Causal Inference Meeting** Copenhagen, Denmark
+|07/2025              | **Deep Learning Reinforcement Learning** Summer school [certificate](https://certificates.amii.ca/724da39e-acf3-479d-bd77-050580b97c5e#acc.7s1gSqOf), Edmonton, Canada
+|04/2025              | **European Causal Inference Meeting** Ghent, Belgium
+|04/2024              | **European Causal Inference Meeting** Copenhagen, Denmark
 |02/2024              | **Causal Thinking in Clinical Trials** by Basel Biometrics Society, Basel, Switzerland
-|06/2023               | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
-|                        | 
+|06/2023              | **Prob AI** Summer school on probabilistic modeling, Trondheim, Norway
+|                     | 
 
 | **Certificates**  | 
 
@@ -108,36 +108,23 @@ nav: true
 |2023 | **Framework for personalized goal recommendation in habit creation. Wearable data analysis and feature extraction** by Jakub Tłuczek, Master Thesis at the University of Neuchâtel
 |            |
 
+### Skills ###
+
+|**Active**  | R, Python, MS Office, Latex, Notion
+
+|**Experiences**   | SQL, Git, MongoDB
+
 #### Seasonal Jobs
 
 |2018 sum.  | allrounder at Hotel Tiefenbach, **Switzerland**
 
 |2017 sum.  | cleaning at Hjá Marlín, **Iceland**
 
-| 2016 win.  | help in service in Restaurant Margaretenhof, **Germany**
+|2016 win.  | help in service in Restaurant Margaretenhof, **Germany**
 
 |2016 sum.  | allrounder at Tölzer Hütte, **Austria**
 
 |2016 sum.  | fruit picking at farm, **Italy**
-
-|   |
-
-
-### Computer Skills ###
-
-|**R**            | advanced, active
-
- |**Python**                      | intermediate, active
-
-|**Git**   |intermediate, active
-
-|**SQL**                      |beginner 
-
-|**LaTex**                       |advanced
-
-|**MS Office**       |intermediate
-
-|**Notion**                          |intermediate, learning
 
 |   |
 
@@ -159,14 +146,6 @@ nav: true
 
 |   |
 
-
-### Scientific input
-
-|02/2025      |**Program committee member** for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
-
-|   |
-
-
 ### Language Skills
 
 |**Slovak**    |mother language
@@ -183,7 +162,7 @@ nav: true
 
 ### Memberships
 
-|since 2024       |**Statisticians in the Pharmaceutical Industry**
+|2024 - 2025      |**Statisticians in the Pharmaceutical Industry**
 
 |since 2024       |**Young Section of the European Sleep Foundation**
 
@@ -191,5 +170,8 @@ nav: true
 
 |   |
 
+### Scientific input
 
+|02/2025      |**Program committee member** for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
 
+|   |
