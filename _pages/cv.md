@@ -92,6 +92,13 @@ nav: true
 |     | English - Slovak translations, assistance in creating website and marketing materials.
 | |
 
+#### Scientific input
+
+|02/2025      |**Program committee member** for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
+
+|   |
+
+
 #### Teaching Assistant
 
 |2022  - 2025   | **Applied Statistics and Data Analysis** 
@@ -108,13 +115,6 @@ nav: true
 |2023 | **Framework for personalized goal recommendation in habit creation. Wearable data analysis and feature extraction** by Jakub Tłuczek, Master Thesis at the University of Neuchâtel
 |            |
 
-### Skills ###
-
-|**Active**  | R, Python, MS Office, Latex, Notion
-
-|**Experiences**   | SQL, Git, MongoDB
-
-|   |
 
 #### Seasonal Jobs
 
@@ -130,6 +130,13 @@ nav: true
 
 |   |
 
+### Skills ###
+
+|**Active**  | R, Python, MS Office, Latex, Notion
+
+|**Experiences**   | SQL, Git, MongoDB
+
+|   |
 
 ### Grants
 
@@ -169,11 +176,5 @@ nav: true
 |since 2024       |**Young Section of the European Sleep Foundation**
 
 |since 2024       |**Austro-Swiss Section of International Biometric Society**
-
-|   |
-
-### Scientific input
-
-|02/2025      |**Program committee member** for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
 
 |   |
