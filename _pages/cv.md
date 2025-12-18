@@ -70,7 +70,7 @@ nav: true
 | | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling ([CUOREMA](https://www.cuorema.com/en/) project). 
 | | Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires ([CUOREMA](https://www.cuorema.com/en/), WRSD, MyDoctorLifestyle, RENEWAL projects).
 | | Collaborating on writing of ethical proposals and scientific grant proposals. Design of statistical methodology for feasibility studies ([CUOREMA](https://www.cuorema.com/en/), Wearables and well-being projects).
-| | Communication and definition of system requirements with healthcare professionals and external industry partners. 
+| | Communication and definition of system requirements with healthcare professionals, software developers and other international partners. 
 | | Statistical consulting for other projects at the institute. 
 | | 
 
