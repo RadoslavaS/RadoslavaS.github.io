@@ -55,6 +55,7 @@ Marzorati, D., Dei Rossi, A., **Švihrová, R.**, Grossenbacher, M., Faraci, F.D
 
 Dei Rossi, A., Marzorati, D., **Švihrová, R.**, Bechny, M., Santini, S., Faraci, F.D. <br>*[Modeling Perceived Sleep Quality Through Objective and Subjective Data](http://dx.doi.org/10.1109/ACIIW63320.2024.00046)*<br> 2025, 12th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) 
 
+|   |
 
 ### Presentations
 
