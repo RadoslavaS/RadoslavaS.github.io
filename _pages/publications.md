@@ -8,7 +8,7 @@ nav: true
 
 ### Theses ###
 
-*Adaptive Interventions and Causal Inference in Digital Health*<br> 2025, Dissertation Thesis, University of Bern, Bern, Switzerland 
+*[Adaptive Interventions and Causal Inference in Digital Health](https://boristheses.unibe.ch/6999/)*<br> 2025, Dissertation Thesis, University of Bern, Bern, Switzerland 
 
 *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)*<br> 2020, Master Thesis, Johannes Kepler University, Linz, Austria
 
