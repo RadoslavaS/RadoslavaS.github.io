@@ -25,18 +25,18 @@ nav: true
 | | 
 | 12/2025 - now    | **Researcher and consultant**, *Independent*
 | | **Diabetes and sleep**: wearable data preparation, research question formulation, statistical analysis, reporting
-| | **ML-based prediction**: development of analytical pipeline, statistical analysis and evaluation, reporting and visualization
-| | **Interactive dashboard**: development for exploratory data analysis and risk prediction (regression) application in R Shiny, deployment to google cloud
+| | **ML-based prediction**: analytical pipeline, statistical analysis and evaluation, reporting and visualization
+| | **Interactive dashboard**: development of R Shiny application, deployment to google cloud
 | | 
 | 09/2021 - 09/2025    |**Doctoral researcher**,  *Biomedical Signal Processing group, MeDiTech, SUPSI (Lugano, Switzerland)*
-| | **CUOREMA**: RL-based adaptive interventions for remote cardiac rehabilitation ([myHeart app](https://mymhealth.com/myheart)); study design, ethical proposal, real-world evaluation; data handling (API) and processing; communication with doctors, SW engineers and serious-game designers
-| | **Burnout prevention**: processing pipeline for multi-modal intensive longitudinal data from wearables and mHealth; Bayesian mixed-effects models (RStan); collaboration with psychiatrists, UX designers and startup founders ([resilient.ai](http://resilient.ai))
-| | **Lifestyle quantification**: statistical modeling, causal inference and discovery with observational longitudinal wearable and mHealth data (pcalg, bnlearn) 
-| | **Critical Care Datathon 2025** (ESICM): RWE, TTE, causal discovery and meta-learners on ICU data
+| | **CUOREMA**: RL-based adaptive interventions for remote cardiac rehabilitation ([myHeart app](https://mymhealth.com/myheart)); study design, ethical proposal, real-world evaluation; data querying (API) and processing; communication with doctors and SW engineers 
+| | **Burnout prevention**: processing pipeline for multi-modal intensive longitudinal data from wearables and mHealth; Bayesian mixed-effects models (RStan); collaboration with psychiatrists and startup founders ([resilient.ai](http://resilient.ai))
+| | **Lifestyle quantification**: statistical modelling, causal inference and discovery with observational longitudinal wearable and mHealth data (pcalg, bnlearn) 
+| | **Critical Care Datathon 2025** (ESICM): track real-world evidence: causal discovery and target trial emulation on ICU data
 | | **Wearables and well-being study**: funding acquisition, ethics, study design, data collection and statistical analysis 
 | | **My Doctor's Lifestyle app**: study design, communication with lifestyle doctor and developers, participant management, statistical analysis, student supervision 
 | | **Teaching and supervision**: Applied Statistics and DS (Master's), SSPH+ summer school; thesis supervision; statistical consulting 
-| | **Funding proposals** writing
+| | **Writing**: scientific publications, peer-reviews, funding proposals
 | | 
 | 06/2019 - 09/2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
 | | **IoT4CPS**: anomaly detection in network security; semi-supervised approach with autoencoders, transfer learning (Keras, TensorFlow); R Shiny analytical toolbox
