@@ -35,7 +35,8 @@ nav: true
 | | **Critical Care Datathon 2025** (ESICM): RWE, TTE, causal discovery and meta-learners on ICU data
 | | **Wearables and well-being study**: funding acquisition, ethics, study design, data collection and statistical analysis 
 | | **My Doctor's Lifestyle app**: study design, communication with lifestyle doctor and developers, participant management, statistical analysis, student supervision 
-| | **Teaching and supervision**: Applied Statistics and DS (Master's), SSPH+ summer school; thesis supervision; statistical consulting; writing funding proposals 
+| | **Teaching and supervision**: Applied Statistics and DS (Master's), SSPH+ summer school; thesis supervision; statistical consulting 
+| | **Funding proposals** writing
 | | 
 | 06/2019 - 09/2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
 | | **IoT4CPS**: anomaly detection in network security; semi-supervised approach with autoencoders, transfer learning (Keras, TensorFlow); R Shiny analytical toolbox
