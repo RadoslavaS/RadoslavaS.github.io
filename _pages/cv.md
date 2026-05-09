@@ -16,6 +16,49 @@ nav: true
 |                        | ![Image of Radka](../assets/img/profile_pic.jpg)
 | |
 
+
+
+### Work Experience ###
+
+| 05/2026 - now    |**Postdoctoral researcher**, *Zürich University of Applied Sciences (ZHAW)*
+| | Digital Twins from medical time-series data 
+
+| 12/2025 - now    | **Researcher and consultant**, *Independent*
+| | **Diabetes and sleep**: wearable data preparation, research question formulation, statistical analysis, reporting
+| | **ML-based prediction**: development of analytical pipeline, statistical analysis and evaluation, reporting and visualization
+| | **Interactive dashboard**: development for exploratory data analysis and risk prediction (regression) application in R Shiny, deployment to google cloud
+| | 
+
+| 09/2021 - 09/2025    |**Doctoral researcher**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
+| | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling ([CUOREMA](https://www.cuorema.com/en/) project). 
+| | Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires ([CUOREMA](https://www.cuorema.com/en/), WRSD, MyDoctorLifestyle, RENEWAL projects).
+| | Collaborating on writing of ethical proposals and scientific grant proposals. Design of statistical methodology for feasibility studies ([CUOREMA](https://www.cuorema.com/en/), Wearables and well-being projects).
+| | Communication and definition of system requirements with healthcare professionals, software developers and other international partners. 
+| | Statistical consulting for other projects at the institute. 
+| | 
+
+| 06/2019 - 09/2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
+| | Data analysis and statistical inference for projects involving collaborators from academia and industry, writting of reports for customers and scientific outcomes, communication with customers. 
+| | Design and implementation of machine learning solutions for anomaly and fraud detection in the social contribution system (project together with social insurance in Austria).
+| | Design and implementation of machine learning solutions for classification and transfer learning with neural networks for anomaly detection in computer network security ([IoT4CPS](https://iot4cps.at/) project).
+| |
+
+| 2017 - 2020   |**Data Science freelancer**
+| | Data analysis and statistical inference for semestral projects, academic theses and scientific reports, statistical consulting.
+| |
+
+{% comment %}
+
+| 2016 - 2019  |**Administrative assistant**, *TPC Transformátory, s.r.o., Liptovský Mikuláš, Slovakia*
+| | Communication with customers in English, invoicing.
+| |
+
+|2012 - 2016    | **Administrative assistant**, *Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia*
+|     | English - Slovak translations, assistance in creating website and marketing materials.
+
+{% endcomment %}
+| |
+
 ### Education ###
 
 | **University**         | 
@@ -63,38 +106,10 @@ nav: true
 |06/2013             | Matura, Billingual grammar school, Liptovský Mikuláš, Slovakia
 |                        |
 
-
-### Work Experience ###
-
-| 09/2021 - 09/2025    |**Doctoral researcher**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
-| | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling ([CUOREMA](https://www.cuorema.com/en/) project). 
-| | Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires ([CUOREMA](https://www.cuorema.com/en/), WRSD, MyDoctorLifestyle, RENEWAL projects).
-| | Collaborating on writing of ethical proposals and scientific grant proposals. Design of statistical methodology for feasibility studies ([CUOREMA](https://www.cuorema.com/en/), Wearables and well-being projects).
-| | Communication and definition of system requirements with healthcare professionals, software developers and other international partners. 
-| | Statistical consulting for other projects at the institute. 
-| | 
-
-| 06/2019 - 09/2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
-| | Data analysis and statistical inference for projects involving collaborators from academia and industry, writting of reports for customers and scientific outcomes, communication with customers. 
-| | Design and implementation of machine learning solutions for anomaly and fraud detection in the social contribution system (project together with social insurance in Austria).
-| | Design and implementation of machine learning solutions for classification and transfer learning with neural networks for anomaly detection in computer network security ([IoT4CPS](https://iot4cps.at/) project).
-| |
-
-| 2017 - 2020   |**Data Science freelancer**
-| | Data analysis and statistical inference for semestral projects, academic theses and scientific reports, statistical consulting.
-| |
-
-| 2016 - 2019  |**Administrative assistant**, *TPC Transformátory, s.r.o., Liptovský Mikuláš, Slovakia*
-| | Communication with customers in English, invoicing.
-| |
-
-|2012 - 2016    | **Administrative assistant**, *Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia*
-|     | English - Slovak translations, assistance in creating website and marketing materials.
-| |
-
 #### Scientific input
 
 |02/2025      |**Program committee member** for [Precision Health Day](https://www.supsi.ch/en/giornata-della-salute-di-precisione) 2025, Lugano, Switzerland
+|02/2026      |**Program committee member** for [Precision Health Day - AI Enabled](https://www.supsi.ch/en/precision-health-day-2026-ai-enabled) 2026, Lugano, Switzerland
 
 |   |
 
