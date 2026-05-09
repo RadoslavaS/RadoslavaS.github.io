@@ -22,29 +22,28 @@ nav: true
 
 | 05/2026 - now    |**Postdoctoral researcher**, *Zürich University of Applied Sciences (ZHAW)*
 | | Digital Twins from medical time-series data 
-
+| | 
 | 12/2025 - now    | **Researcher and consultant**, *Independent*
 | | **Diabetes and sleep**: wearable data preparation, research question formulation, statistical analysis, reporting
 | | **ML-based prediction**: development of analytical pipeline, statistical analysis and evaluation, reporting and visualization
 | | **Interactive dashboard**: development for exploratory data analysis and risk prediction (regression) application in R Shiny, deployment to google cloud
 | | 
-
-| 09/2021 - 09/2025    |**Doctoral researcher**, *University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Lugano, Switzerland - Institute for Digital Technologies for Personalized Healthcare (MeDiTech) - Biomedical Signal Processing group (BSP)*
-| | Design and development of personalised adaptive behavioral change support system on top of the existing mHealth solution with utilisation of bandit algorithms and behavioral modelling ([CUOREMA](https://www.cuorema.com/en/) project). 
-| | Deriving statistical and causal insights on a personalised and population level from longitudinal data collected with wearable devices, digital diaries, other contextual information and validated questionnaires ([CUOREMA](https://www.cuorema.com/en/), WRSD, MyDoctorLifestyle, RENEWAL projects).
-| | Collaborating on writing of ethical proposals and scientific grant proposals. Design of statistical methodology for feasibility studies ([CUOREMA](https://www.cuorema.com/en/), Wearables and well-being projects).
-| | Communication and definition of system requirements with healthcare professionals, software developers and other international partners. 
-| | Statistical consulting for other projects at the institute. 
+| 09/2021 - 09/2025    |**Doctoral researcher**,  *Biomedical Signal Processing group, MeDiTech, SUPSI (Lugano, Switzerland)*
+| | **CUOREMA**: RL-based adaptive interventions for remote cardiac rehabilitation ([myHeart app](https://mymhealth.com/myheart)); study design, ethical proposal, real-world evaluation; data handling (API) and processing; communication with doctors, SW engineers and serious-game designers
+| | **Burnout prevention**: processing pipeline for multi-modal intensive longitudinal data from wearables and mHealth; Bayesian mixed-effects models (RStan); collaboration with psychiatrists, UX designers and startup founders ([resilient.ai](http://resilient.ai))
+| | **Lifestyle quantification**: statistical modeling, causal inference and discovery with observational longitudinal wearable and mHealth data (pcalg, bnlearn) 
+| | **Critical Care Datathon 2025** (ESICM): RWE, TTE, causal discovery and meta-learners on ICU data
+| | **Wearables and well-being study**: funding acquisition, ethics, study design, data collection and statistical analysis 
+| | **My Doctor's Lifestyle app**: study design, communication with lifestyle doctor and developers, participant management, statistical analysis, student supervision 
+| | **Teaching and supervision**: Applied Statistics and DS (Master's), SSPH+ summer school; thesis supervision; statistical consulting; writing funding proposals 
 | | 
-
 | 06/2019 - 09/2021    |**Researcher and Data Scientist**, *Software Competence Center Hagenberg, Hagenberg, Austria*
-| | Data analysis and statistical inference for projects involving collaborators from academia and industry, writting of reports for customers and scientific outcomes, communication with customers. 
-| | Design and implementation of machine learning solutions for anomaly and fraud detection in the social contribution system (project together with social insurance in Austria).
-| | Design and implementation of machine learning solutions for classification and transfer learning with neural networks for anomaly detection in computer network security ([IoT4CPS](https://iot4cps.at/) project).
+| | **IoT4CPS**: anomaly detection in network security; semi-supervised approach with autoencoders, transfer learning (Keras, TensorFlow); R Shiny analytical toolbox
+| | **Fraud detection**: anomaly detection with statistical and ML methods for Austrian social insurance
+| | **Cutting tool optimization**: translation of benchmark system from Excel to Python
 | |
-
 | 2017 - 2020   |**Data Science freelancer**
-| | Data analysis and statistical inference for semestral projects, academic theses and scientific reports, statistical consulting.
+| | Statistical inference and consulting for academic theses, semestral projects and scientific reports
 | |
 
 {% comment %}
@@ -52,7 +51,6 @@ nav: true
 | 2016 - 2019  |**Administrative assistant**, *TPC Transformátory, s.r.o., Liptovský Mikuláš, Slovakia*
 | | Communication with customers in English, invoicing.
 | |
-
 |2012 - 2016    | **Administrative assistant**, *Corvinus Travel, s.r.o., Liptovský Mikuláš, Slovakia*
 |     | English - Slovak translations, assistance in creating website and marketing materials.
 
@@ -71,7 +69,6 @@ nav: true
 | | topic: *Causal discovery and inference from time series data: towards dynamic causal network*
 | | with [Assist. Prof. Anne Helby Petersen](https://researchprofiles.ku.dk/en/persons/anne-helby-petersen)
 |                        |
-
 | 09/2017 - 05/2020             | MSc. in **Statistics** with focus of Data Science, Institute of Applied Statistics, Johannes Kepler University, Linz, Austria
 |                        |thesis *[Machine Learning Techniques for Intrusion Detection in Network Security](https://epub.jku.at/obvulihs/content/titleinfo/4928712)* 
 | | supervised by [Assoz. Univ.-Prof.in Mag.a Dr.in Helga Wagner](https://www.jku.at/institut-fuer-angewandte-statistik/ueber-uns/team/assoz-univ-profin-maga-drin-helga-wagner/)
