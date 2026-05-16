@@ -16,7 +16,7 @@ nav: true
 
 **Švihrová, R.**, Petersen, A.H., Marzorati, D., Dei Rossi, A., Gerosa, T., Faraci, F.D. <br>*[Fully data-driven causal inference with longitudinal data from wearables](https://www.techrxiv.org/users/992468/articles/1355643-fully-data-driven-causal-inference-with-longitudinal-data-from-wearables)* <br> 2025, Preprint at TechRxiv, under review
 
-**Švihrová, R.**, Marzorati, D., Odello, T., Monachino, G., Staletti, T., Tieben, R., Luigies, R., Bodewes, N., Rutten, W., Barrett, G., Bhogal, A., Wilkinson, T., Tzovara, A., Faraci, F.D. <br>*CUOREMA: Immersive Bio & Behavioral Feedback and Digital Interventions for Cardiac Rehabilitation -- Exploratory Analysis*<br> 2025, Under review
+**Švihrová, R.**, Marzorati, D., Odello, T., Monachino, G., Staletti, T., Tieben, R., Luigies, R., Bodewes, N., Rutten, W., Barrett, G., Bhogal, A., Wilkinson, T., Tzovara, A., Faraci, F.D. <br>[*CUOREMA: Immersive Bio & Behavioral Feedback and Digital Interventions for Cardiac Rehabilitation -- Exploratory Analysis*](https://doi.org/10.64898/2026.05.15.26353188)<br> 2025, Preprint at medRxiv, under review
 
 **Švihrová, R.**, Marzorati, D., Bechný, M., Grossenbacher, M., Ilchenko, Y., Grossenbacher, J., Tzovara, A., Faraci, F.D. <br>*[Toward burnout prevention with Bayesian mixed-effects regression analysis of longitudinal data from wearables: a preliminary study](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1640900)* <br> 2025, Frontiers in Digital Health - Sec. Digital Mental Health
 
