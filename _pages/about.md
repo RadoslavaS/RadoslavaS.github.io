@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, this is **Radka**! Data scientist with a statistician's mind and a computer scientist's toolkit. 
 
-Currently I am a postdoctoral researcher at the [Institute of Computational Life Sciences](https://www.zhaw.ch/en/lsfm/institutes-centres/icls) at ZHAW in Zürich, where work on development of Digital Twins from medical time-series data. My research interests are causal inference, biomarkers discovery and uncertainty quantification. 
+Currently I am a postdoctoral researcher at the [Institute of Computational Life Sciences](https://www.zhaw.ch/en/lsfm/institutes-centres/icls) at ZHAW in Zürich, where I work on development of Digital Twins from medical time-series data. My research interests are causal inference, biomarkers discovery and uncertainty quantification. 
 I also provide consulting services - feel free to [contact me via email](mailto:radoslava.svihrova@gmail.com) with your inquiry.
 
 Previously, I was a doctoral researcher at the University of Applied Sciences (SUPSI) in Lugano. Before, I worked as a researcher and data scientist at [SCCH](https://www.scch.at/) in Austria. I hold a PhD in Computer Science from University of Bern, a MSc in Statistics and Data Science from [Johannes Kepler University](https://www.jku.at/institut-fuer-angewandte-statistik/) in Linz, and a Bc in Mathematics from Palacký University in Olomouc, Czechia. I come from Liptovský Mikuláš, Slovakia. Outside of work, I enjoy traveling, hiking, skiing, skitouring, and reading.
