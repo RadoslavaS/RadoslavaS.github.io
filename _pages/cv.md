@@ -23,6 +23,9 @@ nav: true
 | 05/2026 - now    |**Postdoctoral researcher**, *Zürich University of Applied Sciences (ZHAW)*
 | | Digital Twins from medical time-series data 
 | | 
+| 05/2026 - now    |**Associate researcher**, *Department of Intensive Care Medicine, University Hospital Zürich (USZ)* 
+| | Statistical modelling
+| | 
 | 12/2025 - now    | **Researcher and consultant**, *Independent*
 | | **Diabetes and sleep**: wearable data preparation, research question formulation, statistical analysis, reporting
 | | **ML-based prediction**: analytical pipeline, statistical analysis and evaluation, reporting and visualization
@@ -91,7 +94,9 @@ nav: true
 
 | **Certificates**  | 
 
-|02/2025      | **Data or Specimens Only Research** by CITI program, [certificate](https://www.citiprogram.org/verify/?w7a24a597-7515-46c8-911e-e84506fe319e-67970554) (expires 02/2028)
+|06/2026      | **Good Clinical Practice - Basic course**, by University Hospital Zürich
+
+|02/2025      | **Data or Specimens Only Research** by CITI program, [certificate](https://www.citiprogram.org/verify/?w7a24a597-7515-46c8-911e-e84506fe319e-67970554) 
 
 |09/2021      | **Transfer Learning for NLP with TensorFlow Hub** by Coursera project network, [certificate](https://www.coursera.org/account/accomplishments/verify/4E5E2BB7AAMH)
 
