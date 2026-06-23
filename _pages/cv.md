@@ -94,7 +94,7 @@ nav: true
 
 | **Certificates**  | 
 
-|06/2026      | **Good Clinical Practice - Basic course**, by University Hospital Zürich
+|06/2026      | **Good Clinical Practice - Modules 1,2,3**, by University Hospital Zürich
 
 |02/2025      | **Data or Specimens Only Research** by CITI program, [certificate](https://www.citiprogram.org/verify/?w7a24a597-7515-46c8-911e-e84506fe319e-67970554) 
 
