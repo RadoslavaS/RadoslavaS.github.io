@@ -45,6 +45,8 @@ Bechný, M. & **Švihrová, R.**, Arango, L.G., Baldassari, A., Ilchenko, Y., Gr
 
 ### Co-authored publications ###
 
+Jovanova, M., Bruegger, V., **Švihrová, R.**, Fuchs, M., Jin, Q., Wortmann, F., Mitter, M., Bechný, M.  <br>*[Digital biomarkers for insulin resistance screening in daily life](https://www.medrxiv.org/content/10.64898/2026.05.20.26353669v1)*<br> 2026, Preprint at medRxiv, under review
+
 Marzorati, D., Dei Rossi, A., **Švihrová, R.**, Baldassari, A., Kochergin, V., Grossenbacher, M., Faraci, F.D. <br>*In-the-Wild Data Collection with Digital Apps and Wearable Devices: Insights from a Longitudinal Study on Burnout with Office and Production Workers*<br> 2025, SAGE Digital Health - Forthcoming
 
 Dei Rossi, A., Marzorati, D., **Švihrová, R.**, Grossenbacher, J., Kochergin, V., Grossenbacher, M., Faraci, F.D. <br>*[Climbing the ladder: a ranking approach to burnout prediction](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1694666)*<br> 2025, Frontiers in Digital Health
