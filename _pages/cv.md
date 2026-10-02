@@ -11,7 +11,7 @@ nav: true
 ### Personal Information ###
 
 | **Name**               | Radoslava Švihrová (Radka)
-| **Based in**           | Zürich, Switzerland (work permit B)
+| **Based in**           | Zürich, Switzerland (work permit C)
 | **Nationality**        | Slovak
 |                        | ![Image of Radka](../assets/img/profile_pic.jpg)
 | |
@@ -21,10 +21,12 @@ nav: true
 ### Work Experience ###
 
 | 05/2026 - now    |**Postdoctoral researcher**, *Zürich University of Applied Sciences (ZHAW)*
+| | [Personal profile](https://www.zhaw.ch/en/about-us/person/svih)
 | | Digital Twins from medical time-series data 
+| | Supervision of students
 | | 
 | 05/2026 - now    |**Associate researcher**, *Department of Intensive Care Medicine, University Hospital Zürich (USZ)* 
-| | Statistical modelling
+| | Statistical analysis
 | | 
 | 12/2025 - now    | **Researcher and consultant**, *Independent*
 | | **Diabetes and sleep**: wearable data preparation, research question formulation, statistical analysis, reporting

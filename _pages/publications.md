@@ -45,6 +45,8 @@ Bechný, M. & **Švihrová, R.**, Arango, L.G., Baldassari, A., Ilchenko, Y., Gr
 
 ### Co-authored publications ###
 
+Bechny, M., **Švihrová, R.**, Wortmann, F.<br>*[Explainable Artificial Intelligence: Building Trust in the Sleep Clinic](https://www.sciencedirect.com/science/article/pii/S1556407X26000494)*<br> 2026, Sleep Medicine Clinics
+
 Jovanova, M., Bruegger, V., **Švihrová, R.**, Fuchs, M., Jin, Q., Wortmann, F., Mitter, M., Bechný, M.  <br>*[Digital biomarkers for insulin resistance screening in daily life](https://www.medrxiv.org/content/10.64898/2026.05.20.26353669v1)*<br> 2026, Preprint at medRxiv, under review
 
 Marzorati, D., Dei Rossi, A., **Švihrová, R.**, Baldassari, A., Kochergin, V., Grossenbacher, M., Faraci, F.D. <br>*[In-the-Wild Data Collection with Digital Apps and Wearable Devices: Insights from a Longitudinal Study on Burnout with Office and Production Workers](https://journals.sagepub.com/doi/10.1177/20552076261427103)*<br> 2025, SAGE Digital Health
